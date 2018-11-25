@@ -1,1 +1,4 @@
 # books
+
+
+<img src="smiley.gif" alt="Smiley face" width="42" height="42">
