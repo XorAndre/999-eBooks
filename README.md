@@ -1,38 +1,6 @@
-<center>
-
-<div class="w3-container"  style="width: 960px; color: navy; background-color: white;  padding: 5px;" >
-
-<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css">
 
 
 
-
-
-<script type="text/javascript" src="js/jquery-1.12.4.js">
-	</script>
-
-<script type="text/javascript" src="js/jquery.dataTables.min2.js">
-	</script>
-
-
-
-<table border="0" cellspacing="5" cellpadding="5">
-
- 
-
-        
-    </table><table id="example" class="display" cellspacing="0" width="100%">
-        <thead>
-            <tr>
-               
-
-                <th>Book</th>
-                <th>Author</th>
-                <th> </th>
-                
-            </tr>
-        </thead>
-       
         <tbody>
 
 		
@@ -9225,54 +9193,3 @@
 	
 	
 	
-	
- </tbody>
-    </table>
-
-
-<script>
-
-
-/* <a href="#">Custom filtering</a> function which will search data in column four between two values */
-$.fn.dataTable.ext.search.push(
-    function( settings, data, dataIndex ) {
-        var min = parseInt( $('#min').val(), 10 );
-        var max = parseInt( $('#max').val(), 10 );
-        var age = parseFloat( data[3] ) || 0; // use data for the age column
- 
-        if ( ( isNaN( min ) && isNaN( max ) ) ||
-             ( isNaN( min ) && age <= max ) ||
-             ( min <= age   && isNaN( max ) ) ||
-             ( min <= age   && age <= max ) )
-        {
-            return true;
-        }
-        return false;
-    }
-);
- 
-$(document).ready(function() {
-    var table = $('#example').DataTable();
-     
-    // Event listener to the two range filtering inputs to redraw on input
-    $('#min, #max').keyup( function() {
-        table.draw();
-    } );
-} );
-
-
-
-
-
-
-
-
-</script>
-
-
-
-
-</div>
-</center>
-
-</br></br></br>
