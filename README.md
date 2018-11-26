@@ -759,568 +759,263 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2991).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-			
-			
-			
-
-                Informetrics
-                Junping Qiu
+156. Informetrics</br>
+                Junping Qiu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2992).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-			
-			
-			
-
- 
-                Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium
-                Carl Sagan
+157. Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium</br>
+                Carl Sagan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2993).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-			
-			
-			
-
-                Cyber Physical System Design from an Architecture Analysis Viewpoint
-                Shin Nakajima
+158. Cyber Physical System Design from an Architecture Analysis Viewpoint</br>
+                Shin Nakajima</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2994).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-			
-			
-			 
-
-
-                The Omnivore's Dilemma
-                Michael Pollan
+159. The Omnivore's Dilemma</br>
+                Michael Pollan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2995).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-			
-			
-			
-
-                Universal Quantum Computing
-                Richard L. Amoroso
+160. Universal Quantum Computing</br>
+                Richard L. Amoroso</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2996).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-			
-			
-			
-
-                Adobe Acrobat X
-                Doug Sahlin
+161. Adobe Acrobat X</br>
+                Doug Sahlin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2997).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
-			
-
-
-                Machine learning: the power and promise of computers that learn by example
-                Royal Society
+ 162. Machine learning: the power and promise of computers that learn by example</br>
+                Royal Society</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf2997.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
 			
-		
-		
-
-                Cloud Computing: A Practical Approach
-                Anthony T. Velte
+163. Cloud Computing: A Practical Approach</br>
+                Anthony T. Velte</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2998).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 			
-			
-
-
- 
-                Musicophilia: Tales of Music and the Brain
-                Oliver Sacks
+164. Musicophilia: Tales of Music and the Brain</br>
+                Oliver Sacks</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2999).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
            
-             
-
- 
-                The Beauty Myth
-                Naomi Wolf
+165. The Beauty Myth</br>
+                Naomi Wolf</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3000).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Data Visualization Toolkit
-                Barrett Clark
+166. Data Visualization Toolkit</br>
+                Barrett Clark</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3001).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
- 
-                Capitalism and Freedom
-                Milton Friedman
+167. Capitalism and Freedom</br>
+                Milton Friedman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3002).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Science in the Age of Computer Simulation
-                Eric B . Winsberg
+168. Science in the Age of Computer Simulation</br>
+                Eric B . Winsberg</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3003).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Divining a Digital Future
-                Paul Dourish
+169. Divining a Digital Future</br>
+                Paul Dourish</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3004).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Coding Places
-                Yuri Takhteyev
+170.  Coding Places</br>
+                Yuri Takhteyev</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3005).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Press On
-                Harold Thimbleby
+ 171. Press On</br>
+                Harold Thimbleby</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3006).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Anigrafs
-                Whitman Richards
+172.  Anigrafs</br>
+                Whitman Richards</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3007).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Financial Mathematics in Microsoft Excel
-                Alastair L. Day
+173. Mastering Financial Mathematics in Microsoft Excel</br>
+                Alastair L. Day</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3008).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Encyclopedia Of Cybercrime
-                Samuel C. McQuade, III
+  174. Encyclopedia Of Cybercrime</br>
+                Samuel C. McQuade, III</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3009).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                creating a Presentation in powerpoint
-                Tom Negrino
+175. creating a Presentation in powerpoint</br>
+                Tom Negrino</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3010).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Designing Forms for Microsoft Office InfoPath and Forms Services 2007
-                Scott Roberts
+176. Designing Forms for Microsoft Office InfoPath and Forms Services 2007</br>
+                Scott Roberts</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3011).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Semistructured Database Design
-                Tok Wang Ling
+177. Semistructured Database Design</br>
+                Tok Wang Ling</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3012).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Information Retrieval
-                John Davies
+ 178. Information Retrieval</br>
+                John Davies</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3013).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Coding Theory
-                Andre Neubauer
+ 179. Coding Theory</br>
+                Andre Neubauer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3014).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The House of God
-                Samuel Shem
+180. The House of God</br>
+                Samuel Shem</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3015).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-             
-
- 
-                The Birth of the Clinic
-                Michel Foucault
+181. The Birth of the Clinic</br>
+                Michel Foucault</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3016).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                The Best of 2600 A Hacker Odyssey
-                Emmanuel Goldstein
+ 182. The Best of 2600 A Hacker Odyssey</br>
+                Emmanuel Goldstein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3017).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Software Error Detection Through Testing And Analysis
-                J. C. Huang
+183. Software Error Detection Through Testing And Analysis</br>
+                J. C. Huang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3018).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Computer Assisted Exercises And Training
-                Erdal Cayirci
+184. Computer Assisted Exercises And Training</br>
+                Erdal Cayirci</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3019).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Qt for Symbian
-                Frank H.P. Fitzek
+185. Qt for Symbian</br>
+                Frank H.P. Fitzek</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3020).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-  
- 
-                In Cold Blood
-                Truman Capote 
+186. In Cold Blood</br>
+                Truman Capote </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3021).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Sams Teach Yourself Microsoft SQL Server T SQL in 10 Minutes
-                Ben Forta
+187. Sams Teach Yourself Microsoft SQL Server T SQL in 10 Minutes</br>
+                Ben Forta</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3022).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Two Scoops of Django 1.11
-                Daniel Roy Greenfeld
+188. Two Scoops of Django 1.11</br>
+                Daniel Roy Greenfeld</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3023).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Pocket Medicine
-                Marc S. Sabatine
+189. Pocket Medicine</br>
+                Marc S. Sabatine</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3024).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                Complications:A Surgeon's Notes on an Imperfect Science
-                Atul Gawande
+190. Complications:A Surgeon's Notes on an Imperfect Science</br>
+                Atul Gawande</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3025).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Beginning XML 3rd Edition
-                David Hunter
+191. Beginning XML 3rd Edition</br>
+                David Hunter</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3026).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                The Electric Kool Aid Acid Test
-                Tom Wolfe
+192. The Electric Kool Aid Acid Test</br>
+                Tom Wolfe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3027).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Data Clustering Theory, Algorithms, and Applications
-                Guojun Gan
+193. Data Clustering Theory, Algorithms, and Applications</br>
+                Guojun Gan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3028).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Motion Deblurring
-                A.N. Rajagopalan
+194. Motion Deblurring</br>
+                A.N. Rajagopalan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3029).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Measure of All Minds
-                Jose Hernandez Orallo
+195. The Measure of All Minds</br>
+                Jose Hernandez Orallo</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3030).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Installing and Configuring Windows Server 2012
-                Craig Zacker
+196. Installing and Configuring Windows Server 2012</br>
+                Craig Zacker</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3031).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                The Rise and Fall of the Third Reich
-                 William L. Shirer
+197. The Rise and Fall of the Third Reich</br>
+                 William L. Shirer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3032).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Quicken 2014 For Dummies
-                Stephen L. Nelson
+198. Quicken 2014 For Dummies</br>
+                Stephen L. Nelson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3033).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
-                A People's History of the United States, 1492-Present
-                Howard Zinn
+199. A People's History of the United States, 1492-Present</br>
+                Howard Zinn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3034).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                The Internet For Dummies
-                John R. Levine
+200. The Internet For Dummies</br>
+                John R. Levine</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3035).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                DNS Security Management
-                Michael Dooley
+201. DNS Security Management</br>
+                Michael Dooley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3036).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Network Forensics
-                Ric Messier
+202. Network Forensics</br>
+                Ric Messier</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3037).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-		
-
-                Interactive Digital Narrative
-                Hartmut Koenitz
+203. Interactive Digital Narrative</br>
+                Hartmut Koenitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3038).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
-
- 
-                The Hero with a Thousand Faces
-                Joseph Campbell
+204. The Hero with a Thousand Faces</br>
+                Joseph Campbell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3039).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Hiroshima
-                John Hersey
+205.  Hiroshima</br>
+                John Hersey</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3040).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Cloud Computing
-                Sandeep Bhowmik
+206. Cloud Computing</br>
+                Sandeep Bhowmik</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3041).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Windows Azure Platform
-                Tejaswi Redkar
+207. Windows Azure Platform</br>
+                Tejaswi Redkar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3042).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Designing Green Networks and Network Operations
-                Daniel Minoli
+208. Designing Green Networks and Network Operations</br>
+                Daniel Minoli</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3043).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Anonymous Communication Networks
-                Kun Peng
+209. Anonymous Communication Networks</br>
+                Kun Peng</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3044).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Advanced Automated Software Testing
-                Izzat Alsmadi
+210. Advanced Automated Software Testing</br>
+                Izzat Alsmadi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3045).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Processing
-                Jeffrey L. Nyhoff
+211. Processing</br>
+                Jeffrey L. Nyhoff</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3046).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                API Management
-                Brajesh De
+212. API Management</br>
+                Brajesh De</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3047).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Models to Code
-                Leon Starr
+213.  Models to Code</br>
+                Leon Starr</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3048).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Oracle Database Upgrade and Migration Methods
-                Y V Ravikumar
+214. Oracle Database Upgrade and Migration Methods</br>
+                Y V Ravikumar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3049).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Top 50 UNIX Interview Questions and Answers
-                Knowledge Powerhouse
+215. Top 50 UNIX Interview Questions and Answers</br>
+                Knowledge Powerhouse</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3050).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                HTML and CSS
-                Gilbert Kofi
+216. HTML and CSS</br>
+                Gilbert Kofi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3051).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
