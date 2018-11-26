@@ -652,196 +652,110 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2970).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Social Computing and Social Media
-                Gabriele Meiselwitz
+135. Social Computing and Social Media</br>
+                Gabriele Meiselwitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2971).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Cellular Automata and Discrete Complex Systems
-                Alberto Dennunzio
+136. Cellular Automata and Discrete Complex Systems</br>
+                Alberto Dennunzio</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2972).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Knowledge Engineering and Knowledge Management
-                Paolo Ciancarini
+137. Knowledge Engineering and Knowledge Management</br>
+                Paolo Ciancarini</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2973).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                End User Development
-                Simone Barbosa
+138. End User Development</br>
+                Simone Barbosa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2974).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Computer Science Theory and Applications
-                Pascal Weil
+139. Computer Science Theory and Applications</br>
+                Pascal Weil</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2975).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-  
- 
-                The Moral Landscape
-                Sam Harris
+ 140. The Moral Landscape</br>
+                Sam Harris</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2976).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Digital Education
-                Carlos Delgado Kloos
+141. Digital Education</br>
+                Carlos Delgado Kloos</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2977).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
- 
-
-                The Book of Secrets
-                 Deepak Chopra
+142. The Book of Secrets</br>
+                 Deepak Chopra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2978).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-             
-
-              
-                How to Know God: The Soul's Journey Into the Mystery of Mysteries
-                Deepak Chopra
+143. How to Know God: The Soul's Journey Into the Mystery of Mysteries</br>
+                Deepak Chopra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2979).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-                 
-                Super Brain
-                Deepak Chopra
+ 144. Super Brain</br>
+                Deepak Chopra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2980).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Internet of Things and Smart Environments
-                Seyed Shahrestani
+  145. Internet of Things and Smart Environments</br>
+                Seyed Shahrestani</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2981).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Data Warehousing and Knowledge Discovery
-                Johann Eder
+ 146. Data Warehousing and Knowledge Discovery</br>
+                Johann Eder</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2982).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Web Search
-                Amanda Spink
+147. Web Search</br>
+                Amanda Spink</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2983).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Analysis and Design of Advice
-                Ivan Jureta
+148. Analysis and Design of Advice</br>
+                Ivan Jureta</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2984).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Engineering Secure Software and Systems
-                Ulfar Erlingsson
+149. Engineering Secure Software and Systems</br>
+                Ulfar Erlingsson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2985).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Technological Innovation for Sustainability
-                Luis M. Camarinha Matos
+150. Technological Innovation for Sustainability</br>
+                Luis M. Camarinha Matos</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2986).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Software Product Management
-                Hans Bernd Kittlaus
+151. Software Product Management</br>
+                Hans Bernd Kittlaus</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2987).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Foundations of Software Science and Computation Structures
-                Javier Esparza
+152. Foundations of Software Science and Computation Structures</br>
+                Javier Esparza</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2988).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             		
 			
-			
-			
-
-                Fundamental Approaches to Software Engineering
-                Marieke Huisman
+153. Fundamental Approaches to Software Engineering</br>
+                Marieke Huisman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2989).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-			
-			
-			
-               
-                Swann's Way
-                Marcel Proust
+154. Swann's Way</br>
+                Marcel Proust</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2990).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-			
-			
-			
- 
-
-                The Language of God: A Scientist Presents Evidence For Belief
-                Francis S. Collins
+155. The Language of God: A Scientist Presents Evidence For Belief</br>
+                Francis S. Collins</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2991).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
