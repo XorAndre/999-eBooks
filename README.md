@@ -2177,372 +2177,147 @@
                 Robert Ghanea Hercock</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3322).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mining the WEB: Discovering Knowledge from Hypertext Data
-                Soumen Chakrabarti
+ 501. Mining the WEB: Discovering Knowledge from Hypertext Data</br>
+                Soumen Chakrabarti</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3323).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Android Recipes, a Problem, Solution Approach: 4rth Edition
-                Dave Smith
+502. Android Recipes, a Problem, Solution Approach: 4rth Edition</br>
+                Dave Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3324).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaScript Essentials for SAP ABAP Developers
-                Rehan Zaidi
+503.  JavaScript Essentials for SAP ABAP Developers</br>
+                Rehan Zaidi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3325).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning WSO2 ESB: 1st Edition
-                Kasun Indrasiri
+504. Beginning WSO2 ESB: 1st Edition</br>
+                Kasun Indrasiri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3326).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Pro HTML5 with CSS, JavaScript, and Multimedia
-                Mark J. Collins
+505. Pro HTML5 with CSS, JavaScript, and Multimedia</br>
+                Mark J. Collins</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3327).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning Functional JavaScript
-                Anto Aravinth
+506.  Beginning Functional JavaScript</br>
+                Anto Aravinth</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3328).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Processing Big Data with Azure HDInsight
-                Vinit Yadav
+507.  Processing Big Data with Azure HDInsight</br>
+                Vinit Yadav</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3329).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Machine Learning and Image Interpretation
-                Terry Caelli
+508.  Machine Learning and Image Interpretation</br>
+                Terry Caelli</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3330).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Machine Learning Models and Algorithms for Big Data Classification
-                Shan Suthaharan
+509.  Machine Learning Models and Algorithms for Big Data Classification</br>
+                Shan Suthaharan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3331).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                C++, The Complete Reference
-                Herbert Schildt
+510.  C++, The Complete Reference</br>
+                Herbert Schildt</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3332).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-               
-	
-
-
-
-
-                Using SVG with CSS3 and HTML5: Vector Graphics for Web Design
-                Amelia Bellamy Royds
+511. Using SVG with CSS3 and HTML5: Vector Graphics for Web Design</br>
+                Amelia Bellamy Royds</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3333).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Data Science with Java
-                Michael R. Brzustowicz
+512.  Data Science with Java</br>
+                Michael R. Brzustowicz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3334).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mobile App Development with Ionic 2
-                Chris Griffith
+513.  Mobile App Development with Ionic 2</br>
+                Chris Griffith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3335).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Practical Modern JavaScript
-                Nicolas Bevacqua
+514.  Practical Modern JavaScript</br>
+                Nicolas Bevacqua</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3336).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Designing for Happiness: The User & Business benefits of positive design
-                Pamela Pavliscak
+515. Designing for Happiness: The User & Business benefits of positive design</br>
+                Pamela Pavliscak</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3337).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Prototyping for Designers: Developing the Best Digital & Physical Products
-                Kathryn McElroy
+516.  Prototyping for Designers: Developing the Best Digital & Physical Products</br>
+                Kathryn McElroy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3338).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Creating Web Animations: Bringing Your UIs to Life
-                Kirupa Chinnathambi
+517.  Creating Web Animations: Bringing Your UIs to Life</br>
+                Kirupa Chinnathambi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3339).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Working with Static Sites: Bringing the Power of Simple to Modern Websites
-                Raymond Camden
+518.  Working with Static Sites: Bringing the Power of Simple to Modern Websites</br>
+                Raymond Camden</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3340).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                C# 7.0 Pocket Reference: Instant Help for C# 7.0 Programmers
-                Joseph Albahari
+519.  C# 7.0 Pocket Reference: Instant Help for C# 7.0 Programmers</br>
+                Joseph Albahari</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3341).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
- 
- 
-                God is a Gamer
-                Ravi Subramanian
+520. God is a Gamer</br>
+                Ravi Subramanian</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3342).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-	
-
-
-
-
-                2D to VR with Unity5 & Google Cardboard
-                Roberto Dillon
+521. 2D to VR with Unity5 & Google Cardboard</br>
+                Roberto Dillon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3343).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Procedural Generation in Game Design
-                Tanya X. Short
+522. Procedural Generation in Game Design</br>
+                Tanya X. Short</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3344).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Introduction to Networking
-                Charles Severance
+523. Introduction to Networking</br>
+                Charles Severance</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3345).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Object Oriented PHP Best Practices
-                Ikram Hawramani
+524. Object Oriented PHP Best Practices</br>
+                Ikram Hawramani</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3346).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                How to use Regular Expressions in JavaScript
-                Van Nguyen
+525. How to use Regular Expressions in JavaScript</br>
+                Van Nguyen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3347).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                The Artificial Intelligence Timeline: Feb 2017
-                Singularity Now!
+526.  The Artificial Intelligence Timeline: Feb 2017</br>
+                Singularity Now!</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3348).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Coding Interview: Coding Interview Solution
-                Mr Kotiyana
+527. Java Coding Interview: Coding Interview Solution</br>
+                Mr Kotiyana</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3349).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                RedHat and Centos Quick Notes
-                Shiv Kumar Goyal
+528. RedHat and Centos Quick Notes</br>
+                Shiv Kumar Goyal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3350).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Top 50 Node.js Interview Questions & Answers
-                Knowledge Powerhouse
+529. Top 50 Node.js Interview Questions & Answers</br>
+                Knowledge Powerhouse</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3351).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                SEO Basics: 1st Edition
-                Eliel Carvalho
+530. SEO Basics: 1st Edition</br>
+                Eliel Carvalho</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3352).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Game Maker: Studio Book RPG Design & Coding
-                Anonymous
+531.  Game Maker: Studio Book RPG Design & Coding</br>
+                Anonymous</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3353).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                C#: Programming Basics for Absolute Beginners
-                Nathan Clark
+532. C#: Programming Basics for Absolute Beginners</br>
+                Nathan Clark</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3354).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                WordPress: Beginner’s Guide to Mastering WordPress
-                Anonymous
+533. WordPress: Beginner’s Guide to Mastering WordPress</br>
+                Anonymous</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3355).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                WordPress: Beginners Guide to Start a WordPress Blog or Website from Scratch
-                Arnold de Vries
+534.  WordPress: Beginners Guide to Start a WordPress Blog or Website from Scratch</br>
+                Arnold de Vries</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3356).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Game Development with Swift
-                Stephen Haney
+ 535. Game Development with Swift</br>
+                Stephen Haney</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3357).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Problem Solving in Data Structures & Algorithms Using C++: 1st Edition
-                Hemant Jain
+536.  Problem Solving in Data Structures & Algorithms Using C++: 1st Edition</br>
+                Hemant Jain</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3358).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-		
-
- 
-                The Girl on the Train
-                Paula Hawkins
+537. The Girl on the Train</br>
+                Paula Hawkins</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3359).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-  
-			
-			
-
-
-                Oracle Application Express 5.1: Basics & Beyond
-                Riaz Ahmed
+538. Oracle Application Express 5.1: Basics & Beyond</br>
+                Riaz Ahmed</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3360).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                SEO Dictionary: Complete Glossary ofSearch Engine Optimization Terms
-                shivani karwal
+539.  SEO Dictionary: Complete Glossary ofSearch Engine Optimization Terms</br>
+                shivani karwal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3361).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Utilizing IFTTT: Second Edition
-                Matt Cole
+540. Utilizing IFTTT: Second Edition</br>
+                Matt Cole</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3362).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
