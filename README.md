@@ -1018,319 +1018,146 @@
                 Gilbert Kofi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3051).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introducing Windows Server 2016
-                John McCabe
+217. Introducing Windows Server 2016</br>
+                John McCabe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3052).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-			
-			
-
-                Java: The Complete Guide for Beginners to Learn Java Programming Fast
-                Leonardo Gorman
+218. Java: The Complete Guide for Beginners to Learn Java Programming Fast</br>
+                Leonardo Gorman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3053).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
-
-
-                Java:Best Practices to Programming Code with Java
-                Charlie Masterson
+219.  Java:Best Practices to Programming Code with Java</br>
+                Charlie Masterson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3054).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Linux: The Ultimate Beginner's Guide
-                Lee Maxwell
+220.  Linux: The Ultimate Beginner's Guide</br>
+                Lee Maxwell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3055).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
-
-
-                Programming Java
-                Gilbert Kofi
+221. Programming Java</br>
+                Gilbert Kofi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3056).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Windows 10
-                Lee Maxwell
+222. Windows 10</br>
+                Lee Maxwell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3057).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Java: A Detailed Approach to Practical Coding
-                Nathan Clark
+223. Java: A Detailed Approach to Practical Coding</br>
+                Nathan Clark</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3058).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                C Programming Examples
-                Anonymous
+224. C Programming Examples</br>
+                Anonymous</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3059).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Programming For Beginners
-                Martin Laredo
+225. Java Programming For Beginners</br>
+                Martin Laredo</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3060).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Java: The 1-Step At A Time Java Programming For Beginners Guide to Learning Java
-                Matthew Adams
+226. Java: The 1-Step At A Time Java Programming For Beginners Guide to Learning Java</br>
+                Matthew Adams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3061).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
 
-
-
-
-                JavaScript: Best Practices to Programming Code with JavaScript 
-                Charlie Masterson
+227. JavaScript: Best Practices to Programming Code with JavaScript </br>
+                Charlie Masterson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3062).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Linux: From Beginner To Expert In Less Than A Week 
-                Stephen Blumenthal
+228.  Linux: From Beginner To Expert In Less Than A Week </br>
+                Stephen Blumenthal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3063).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                JavaScript Programming
-                Brian Draper
+229. JavaScript Programming</br>
+                Brian Draper</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3064).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                JavaScript: Programming Basics For Absolute Beginners
-                Nathan Clark
+230.  JavaScript: Programming Basics For Absolute Beginners</br>
+                Nathan Clark</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3065).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Linux: Linux For Beginners Guide to Learn Linux Command Line... 
-                Josh Thompsons
+231.  Linux: Linux For Beginners Guide to Learn Linux Command Line... </br>
+                Josh Thompsons</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3066).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Java Programming
-                iCode Academy
+232. Java Programming</br>
+                iCode Academy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3067).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaScript
-                Stephen Blumenthal
+233. JavaScript</br>
+                Stephen Blumenthal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3068).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Linux: Beginner's Crash Course... 
-                Quick Start Guides
+234. Linux: Beginner's Crash Course... </br>
+                Quick Start Guides</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3069).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaScript: Learn Basics of Scripting Language... 
-                James Jackson
+235. JavaScript: Learn Basics of Scripting Language... </br>
+                James Jackson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3070).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Programming Java
-                Os Swift
+236.  Programming Java</br>
+                Os Swift</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3071).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                React.JS Book
-                Greg Sidelnikov
+237. React.JS Book</br>
+                Greg Sidelnikov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3072).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Advanced Persistent Training
-                Jordan Schroeder
+238. Advanced Persistent Training</br>
+                Jordan Schroeder</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3073).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Learning Reactive Programming with Java 8
-                Nickolay Tsvetinov
+239. Learning Reactive Programming with Java 8</br>
+                Nickolay Tsvetinov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3074).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
 
-
-
-
-                Learning HTTP/2
-                Stephen Ludin
+240. Learning HTTP/2</br>
+                Stephen Ludin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3075).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Modern Java Recipes
-                Ken Kousen
+241.  Modern Java Recipes</br>
+                Ken Kousen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3076).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                ES6 for Humans
-                Hanu Prateek Kunduru
+242. ES6 for Humans</br>
+                Hanu Prateek Kunduru</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3077).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering PostgreSQL 9.6
-                Hans Jurgen Schonig
+243. Mastering PostgreSQL 9.6</br>
+                Hans Jurgen Schonig</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3078).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Teach & Learn Visual Basic with 26 Hands on Projects
-                Mohammad Javad Morovati
+244. Teach & Learn Visual Basic with 26 Hands on Projects</br>
+                Mohammad Javad Morovati</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3079).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Perl 6 Fundamentals
-                Moritz Lenz
+245. Perl 6 Fundamentals</br>
+                Moritz Lenz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3080).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Mastering Unit Testing Using Mockito and JUnit
-                Sujoy Acharya
+246.  Mastering Unit Testing Using Mockito and JUnit</br>
+                Sujoy Acharya</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3081).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Hierarchical Modular Granular Neural Networks with Fuzzy Aggregation
-                Janusz Kacprzyk
+247. Hierarchical Modular Granular Neural Networks with Fuzzy Aggregation</br>
+                Janusz Kacprzyk</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3082).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Hadoop 2
-                Garry Turkington
+248.  Learning Hadoop 2</br>
+                Garry Turkington</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3083).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-			
-			
-			
-
-                Mastering Node.js
-                Sandro Pasquali
+249. Mastering Node.js</br>
+                Sandro Pasquali</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3084).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-              
-			
-			
-			
-
-                JavaScript Unit Testing
-                Hazem Saleh
+250. JavaScript Unit Testing</br>
+                Hazem Saleh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3085).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
-
-
-                Learning Phalcon PHP
-                Calin Rada
+251. Learning Phalcon PHP</br>
+                Calin Rada</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3086).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
               
