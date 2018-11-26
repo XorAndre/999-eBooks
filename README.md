@@ -2395,513 +2395,216 @@
 564. IBM i Security Administration and Compliance: 2nd Edition</br>
                 Carol Woodbury</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3386).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Desiring God
-                John Piper
+565.  Desiring God</br>
+                John Piper</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3387).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-
-             
- 
-                A History of God
-                Karen Armstrong
+566. A History of God</br>
+                Karen Armstrong</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3388).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Cross Platform Game Programming
-                Steven Goodwin
+567. Cross Platform Game Programming</br>
+                Steven Goodwin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3389).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                UNIX/LINUX Survival Guide
-                Erik M. Keller
+568. UNIX/LINUX Survival Guide</br>
+                Erik M. Keller</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3390).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Visual Basic 2005 by Practice
-                Mike Mostafavi
+569.  Visual Basic 2005 by Practice</br>
+                Mike Mostafavi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3391).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                David Perry on Game Design: A Brainstorming Toolbox
-                David Perry
+570. David Perry on Game Design: A Brainstorming Toolbox</br>
+                David Perry</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3392).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                A Concise Introduction to Image Processing using C++
-                Meiqing Wang
+571.  A Concise Introduction to Image Processing using C++</br>
+                Meiqing Wang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3393).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Frontiers in Artificial Intelligence and Applications: Volume 170
-                L.C. Jain
+572. Frontiers in Artificial Intelligence and Applications: Volume 170</br>
+                L.C. Jain</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3394).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Frontiers in Artificial Intelligence and Applications: Volume 171
-                J. Breuker
+573.  Frontiers in Artificial Intelligence and Applications: Volume 171</br>
+                J. Breuker</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3395).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Enterprise Java Development on a Budget
-                Brian Sam
+574.  Enterprise Java Development on a Budget</br>
+                Brian Sam</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3396).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning XSLT 2.0: From Novice to Professional
-                Jeni Tennison
+575.  Beginning XSLT 2.0: From Novice to Professional</br>
+                Jeni Tennison</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3397).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning SUSE Linux: Second Edition
-                Keir Thomas
+576. Beginning SUSE Linux: Second Edition</br>
+                Keir Thomas</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3398).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Physics for Game Programmers
-                Grant Palmer
+577. Physics for Game Programmers</br>
+                Grant Palmer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3399).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Expert Spring MVC and Web Flow
-                Seth Ladd
+578. Expert Spring MVC and Web Flow</br>
+                Seth Ladd</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3400).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning Java SE 6 Platform: From Novice to Professional
-                Jeff Friesen
+579. Beginning Java SE 6 Platform: From Novice to Professional</br>
+                Jeff Friesen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3401).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Pro Web 2.0 Mashups: Remixing Data and Web Services
-                Raymond Yee
+580. Pro Web 2.0 Mashups: Remixing Data and Web Services</br>
+                Raymond Yee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3402).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Neural Networks in Healthcare: Potential and Challenges
-                Rezaul Begg
+581. Neural Networks in Healthcare: Potential and Challenges</br>
+                Rezaul Begg</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3403).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mathematics for Game developers
-                Christopher Tremblay
+582.  Mathematics for Game developers</br>
+                Christopher Tremblay</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3404).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Why I Am Not a Christian
-                Bertrand Russell
+583.  Why I Am Not a Christian</br>
+                Bertrand Russell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3405).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-
-
-
-
-
-                Programming Role Playing Games with Direct X
-                Jim Adams
+584.  Programming Role Playing Games with Direct X</br>
+                Jim Adams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3406).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Game Interface Design
-                Brent Fox
+585.  Game Interface Design</br>
+                Brent Fox</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3407).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Breaking the Spell: Religion as a Natural Phenomenon
-                Daniel Dennett
+586. Breaking the Spell: Religion as a Natural Phenomenon</br>
+                Daniel Dennett</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3408).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-
-
-
-
-                Network Know How: An Essential Guide for the Accidental Admin
-                John Ross
+587.  Network Know How: An Essential Guide for the Accidental Admin</br>
+                John Ross</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3409).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                An Introduction to Logic Circuit Testing
-                Parag K. Lala
+588.  An Introduction to Logic Circuit Testing</br>
+                Parag K. Lala</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3410).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Teaching Computer Programming to High School Students
-                Edward Naillon 
+589.  Teaching Computer Programming to High School Students</br>
+                Edward Naillon </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3411).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-                The Renderman Shading Language Guide
-                Rudy Cortes
+590.  The Renderman Shading Language Guide</br>
+                Rudy Cortes</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3412).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Beginning Math Concepts for Game Developers
-                John P. Flynt
+591. Beginning Math Concepts for Game Developers</br>
+                John P. Flynt</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3413).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Beginning DirectX 10 Game Programming
-                Wendy Jones
+592. Beginning DirectX 10 Game Programming</br>
+                Wendy Jones</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3414).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Picture Yourself Building a Website with Joomla! 1.6
-                Robin D. Turner
+593. Picture Yourself Building a Website with Joomla! 1.6</br>
+                Robin D. Turner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3415).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                6net: An IPv6 Deployment Guide
-                Martin Dunmore
+594. 6net: An IPv6 Deployment Guide</br>
+                Martin Dunmore</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3416).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Cooperative Task-Oriented Computing: Algorithms and Complexity
-                Chryssis Georgiou
+595.  Cooperative Task-Oriented Computing: Algorithms and Complexity</br>
+                Chryssis Georgiou</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3417).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Computational Modeling and Simulation of Intellect
-                Boris Igelnik
+596. Computational Modeling and Simulation of Intellect</br>
+                Boris Igelnik</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3418).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Speech Technology and Text Mining in Medicine & Health Care
-                De Gruyter
+597.  Speech Technology and Text Mining in Medicine & Health Care</br>
+                De Gruyter</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3419).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Querying a Web of Linked Data Foundations & Query Execution
-                Olaf Hartig
+598.  Querying a Web of Linked Data Foundations & Query Execution</br>
+                Olaf Hartig</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3420).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Hands-On Python
-                Andrew N. Harrington
+599.  Hands-On Python</br>
+                Andrew N. Harrington</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3421).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Power Pivot and Power BI
-                Rob Collie
+600.  Power Pivot and Power BI</br>
+                Rob Collie</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3422).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Machine Learning in Action
-                Peter Harrington
+601.  Machine Learning in Action</br>
+                Peter Harrington</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3423).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                OAuth 2 in Action
-                Justin Richer
+602.  OAuth 2 in Action</br>
+                Justin Richer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3424).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Hackers: Heroes of the Computer Revolution
-                Steven Levy  
+603. Hackers: Heroes of the Computer Revolution</br>
+                Steven Levy  </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3425).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Synchronization in Complex Networks
-                Xin Biao Lu
+604.   Synchronization in Complex Networks</br>
+                Xin Biao Lu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3426).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Maximum Consensus Problem: Recent Algorithmic Advances
-                Tat Jun Chin
+605.  The Maximum Consensus Problem: Recent Algorithmic Advances</br>
+                Tat Jun Chin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3427).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Neural Network Methods
-                Yoav Goldberg
+606.  Neural Network Methods</br>
+                Yoav Goldberg</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3428).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Body Tracking in Healthcare
-                Kenton O Hara
+607.  Body Tracking in Healthcare</br>
+                Kenton O Hara</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3429).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Synthesis Lectures on Human Language Technologies
-                Graeme Hirst
+608.  Synthesis Lectures on Human Language Technologies</br>
+                Graeme Hirst</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3430).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Differential Privacy: From Theory to Practice
-                Ninghui Li
+609.  Differential Privacy: From Theory to Practice</br>
+                Ninghui Li</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3431).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Designing for Gesture and Tangible Interaction
-                Mary Lou Maher
+610.  Designing for Gesture and Tangible Interaction</br>
+                Mary Lou Maher</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3432).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mathematical Basics of Motion and Deformation in Computer Graphics: 2nd Edition
-                Ken Anjyo
+611.   Mathematical Basics of Motion and Deformation in Computer Graphics: 2nd Edition</br>
+                Ken Anjyo</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3433).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Extreme Value Theory Based Methods for Visual Recognition
-                Walter J. Scheirer
+612.   Extreme Value Theory Based Methods for Visual Recognition</br>
+                Walter J. Scheirer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3434).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Design of Visualizations for Human Information Interaction
-                Kamran Sedig
+613.  Design of Visualizations for Human Information Interaction</br>
+                Kamran Sedig</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3435).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Geometric and Discrete Path Planning for Interactive Virtual Worlds
-                Marcelo Kallmann
+614.  Geometric and Discrete Path Planning for Interactive Virtual Worlds</br>
+                Marcelo Kallmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3436).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Automatic Text Simplification
-                Horacio Saggion
+615. Automatic Text Simplification</br>
+                Horacio Saggion</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3437).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Trustworthy Policies for Distributed Repositories
-                Reagan W. Moore
+616.  Trustworthy Policies for Distributed Repositories</br>
+                Reagan W. Moore</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3438).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Internet of Things
-                Emanuel Delgado
+617.  The Internet of Things</br>
+                Emanuel Delgado</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3439).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Angular 4: Pocket Primer
-                Oswald Campesato
+618.  Angular 4: Pocket Primer</br>
+                Oswald Campesato</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3440).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Programming Essentials using Java: A Game Application Approach 
-                William McAllister
+619.  Programming Essentials using Java: A Game Application Approach </br>
+                William McAllister</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3441).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Web Application Development with AngularJS
-                Pawel Kozlowski
+620.  Mastering Web Application Development with AngularJS</br>
+                Pawel Kozlowski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3442).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
