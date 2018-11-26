@@ -75,142 +75,76 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2852).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             		
-
-
-
-
-                Quantum Computation and Quantum Information
-                Michael A. Nielsen
+17. Quantum Computation and Quantum Information</br>
+                Michael A. Nielsen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2853).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-               
-                Moby Dick
-                Herman Melville
+ 18. Moby Dick</br>
+                Herman Melville</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2854).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-           
-             
- 
-
-                Ulysses
-                 James Joyce
+19. Ulysses</br>
+                 James Joyce</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2855).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-               
-
-
-
-
-
-                Handbook of Optical Sensors
-                J.L. Santos
+20. Handbook of Optical Sensors</br>
+                J.L. Santos</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2856).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Quantum Jump
-                W. R. Clement
+21. Quantum Jump</br>
+                W. R. Clement</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2857).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                SugarCRM For Dummies
-                Karen S. Fredricks
+22. SugarCRM For Dummies</br>
+                Karen S. Fredricks</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2858).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Connected Services
-                Paul Golding
+23. Connected Services</br>
+                Paul Golding</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2859).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Secrets and Lies
-                Bruce Schneier
+24. Secrets and Lies</br>
+                Bruce Schneier</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2860).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Waves in the Ocean and Atmosphere
-                Joseph Pedlosky
+25. Waves in the Ocean and Atmosphere</br>
+                Joseph Pedlosky</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2861).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Waves and Compressible Flow
-                Hilary Ockendon
+26.  Waves and Compressible Flow</br>
+                Hilary Ockendon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2862).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Wave Technology in Mechanical Engineering
-                R.F. Ganiev
+27. Wave Technology in Mechanical Engineering</br>
+                R.F. Ganiev</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2863).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Propagation and Group Velocity
-                Leon Brillouin
+28. Wave Propagation and Group Velocity</br>
+                Leon Brillouin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2864).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Propagation in Nanostructures
-                Srinivasan Gopalakrishnan
+29. Wave Propagation in Nanostructures</br>
+                Srinivasan Gopalakrishnan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2865).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
- 
-
- 
-                Don Quixote
-                Miguel de Cervantes
+30. Don Quixote</br>
+                Miguel de Cervantes</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2866).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Wave Fields In Real Media
-                J.M.Carcione
+31. Wave Fields In Real Media</br>
+                J.M.Carcione</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2867).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
