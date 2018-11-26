@@ -1565,170 +1565,80 @@
                 Naci Dai</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3179).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Bulletproof Ajax
-                Jeremy Keith
+ 353. Bulletproof Ajax</br>
+                Jeremy Keith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3180).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Design Patterns In Ruby
-                Russ Olsen
+354. Design Patterns In Ruby</br>
+                Russ Olsen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3181).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Next Generation Java Testing: TestNG and Advanced Concepts
-                Cedric Beust
+355.  Next Generation Java Testing: TestNG and Advanced Concepts</br>
+                Cedric Beust</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3182).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Visual Design for the Modern Web
-                Penny McIntire
+356.  Visual Design for the Modern Web</br>
+                Penny McIntire</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3183).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
- 
-                Deception Point
-                Dan Brown
+357.  Deception Point</br>
+                Dan Brown</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3184).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Distributed Programming With Ruby
-                Mark Bates
+358.  Distributed Programming With Ruby</br>
+                Mark Bates</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3185).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Programming in Python 3, Second Edition
-                Mark Summerfield
+359. Programming in Python 3, Second Edition</br>
+                Mark Summerfield</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3186).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Objective-c: Visual Quickstart Guide
-                Steven Holzner
+360. Objective-C: Visual Quickstart Guide</br>
+                Steven Holzner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3187).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Catch 22
-                Joseph Heller 
+361. Catch 22</br>
+                Joseph Heller </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3188).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Adobe Flash Professional CS5: For Windows And Macintosh
-                Katherine Ulrich
+362.  Adobe Flash Professional CS5: For Windows And Macintosh</br>
+                Katherine Ulrich</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3189).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             		
-
-
-
-
-                Building a WordPress Blog People Want to Read: Second Edition
-                Scott McNulty
+363.  Building a WordPress Blog People Want to Read: Second Edition</br>
+                Scott McNulty</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3190).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
-                John Dies at the End
-                David Wong
+364. John Dies at the End</br>
+                David Wong</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3191).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Formal Software Development: From VDM to Java
-                Quentin Charatan
+365. Formal Software Development: From VDM to Java</br>
+                Quentin Charatan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3192).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-		
-		
-		
-
-                Elementary Number Theory and lts Applications
-                Kenneth H. Rosen
+366.  Elementary Number Theory and lts Applications</br>
+                Kenneth H. Rosen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(03192).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-		
-		
-
-                Number Theory For Beginners
-                A. Weil
+367.  Number Theory For Beginners</br>
+                A. Weil</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(03193).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-		
-		
-		
-
-                Undergraduate Texts in Mathematics
-                F. W. Gehrin
+368. Undergraduate Texts in Mathematics</br>
+                F. W. Gehrin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(03194).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-		
-		
-
-                An Introduction to the Theory of Numbers
-                G. H. Hardy
+369.  An Introduction to the Theory of Numbers</br>
+                G. H. Hardy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(03195).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-		
-		
-
-                Elementary Number Theory: Primes, Congruences, and Secrets
-                William Stein
+370.  Elementary Number Theory: Primes, Congruences, and Secrets</br>
+                William Stein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(03196).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
