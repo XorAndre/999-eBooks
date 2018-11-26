@@ -372,221 +372,127 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2913).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Advanced Techniques in Multimedia Watermarking
-                Ali Mohammad Al Haj
+78.  Advanced Techniques in Multimedia Watermarking</br>
+                Ali Mohammad Al Haj</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2914).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                CoreOS in Action
-                Matt Bailey
+79. CoreOS in Action</br>
+                Matt Bailey</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2915).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Natural Language Processing for the Semantic Web
-                Diana Maynard
+80. Natural Language Processing for the Semantic Web</br>
+                Diana Maynard</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2916).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Malware And Computer Security Incidents
-                Mark Borrelli
+81. Malware And Computer Security Incidents</br>
+                Mark Borrelli</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2917).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Instant Drools Starter
-                Jeremy Ary
+82. Instant Drools Starter</br>
+                Jeremy Ary</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2918).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Kali Linux CTF Blueprints
-                Cameron Buchanan
+83. Kali Linux CTF Blueprints</br>
+                Cameron Buchanan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2919).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-
-
-                Automating Microsoft Azure with PowerShell
-                John Chapman
+84. Automating Microsoft Azure with PowerShell</br>
+                John Chapman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2920).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Tragedy of Romeo and Juliet
-                William Shakespeare
+     85. The Tragedy of Romeo and Juliet</br>
+                William Shakespeare</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2921).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-             
- 
-                The Tragedy of Macbeth
-                William Shakespeare
+86. The Tragedy of Macbeth</br>
+                William Shakespeare</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2922).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Magento 2 Build World Class online stores
-                Fernando J. Miguel
+87. Magento 2 Build World Class online stores</br>
+                Fernando J. Miguel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2923).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Breakcore
-                Andrew Whelan
+88.  Breakcore</br>
+                Andrew Whelan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2924).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Network Administration with FreeBSD 7
-                Babak Farrokhi
+89. Network Administration with FreeBSD 7</br>
+                Babak Farrokhi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2925).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Analysis and Synthesis of Computer Systems
-                Erol Gelenbe
+ 90.  Analysis and Synthesis of Computer Systems</br>
+                Erol Gelenbe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2926).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Safety Management for Software based Equipment
-                Jean Louis Boulanger
+91. Safety Management for Software based Equipment</br>
+                Jean Louis Boulanger</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2927).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Enterprise Interoperability
-                Martin Zelm
+92. Enterprise Interoperability</br>
+                Martin Zelm</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2928).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Performance Evaluation by Simulation and Analysis with Applications to Computer Networks
-                Ken Chen
+93. Performance Evaluation by Simulation and Analysis with Applications to Computer Networks</br>
+                Ken Chen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2929).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
 
-
-
-
-                The Tragedy of Hamlet
-                William Shakespeare
+94. The Tragedy of Hamlet</br>
+                William Shakespeare</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2930).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
 
-
-
-
-
-                Away3D 3.6 Cookbook
-                Michael Ivanov
+95. Away3D 3.6 Cookbook</br>
+                Michael Ivanov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2931).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Tcl/Tk 8.5 Programming Cookbook
-                Bert Wheeler
+96. Tcl/Tk 8.5 Programming Cookbook</br>
+                Bert Wheeler</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2932).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                The Oracle Universal Content Management Handbook
-                Dmitri Khanine
+97. The Oracle Universal Content Management Handbook</br>
+                Dmitri Khanine</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2933).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
 
-
-
-
-                Mudbox 2013 Cookbook
-                Jeremy Roland
+98. Mudbox 2013 Cookbook</br>
+                Jeremy Roland</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2934).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
- 
-                Tales from Shakespeare
-                 Charles & Mary Lamb
+99. Tales from Shakespeare</br>
+                 Charles & Mary Lamb</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2935).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Content Everywhere
-                Sara Wachter Boettcher
+100. Content Everywhere</br>
+                Sara Wachter Boettcher</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2936).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-  
-
-                My Brief History
-                Stephen Hawking
+101. My Brief History</br>
+                Stephen Hawking</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2937).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
