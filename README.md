@@ -1401,375 +1401,168 @@
                 James DeRoest</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3138).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-			
-
-
-                PHP Programming Solutions
-                Vikram Vaswani
+312. PHP Programming Solutions</br>
+                Vikram Vaswani</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3139).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                HTML & CSS: The Complete Reference,Fifth Edition
-                Thomas A. Powell
+313. HTML & CSS: The Complete Reference, Fifth Edition</br>
+                Thomas A. Powell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3140).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                PHP A Beginner’s Guide
-                Vikram Vaswani
+314. PHP A Beginner's Guide</br>
+                Vikram Vaswani</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3141).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Ubuntu
-                Jeffrey T. Orloff
+315.  Ubuntu</br>
+                Jeffrey T. Orloff</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3142).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Reshaping Your Business with WEB 2.0
-                Vince Casarez
+316. Reshaping Your Business with WEB 2.0</br>
+                Vince Casarez</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3143).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaFX: A Beginner’s Guide
-                J. F. DiMarzio
+317.  JavaFX: A Beginner's Guide</br>
+                J. F. DiMarzio</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3144).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Plug in CSS: 100 Power Solutions
-                Robin Nixon
+318.  Plug in CSS: 100 Power Solutions</br>
+                Robin Nixon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3145).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-			
-			
-
-                Quick Start Guide to JavaFX
-                J. F. DiMarzio
+319. Quick Start Guide to JavaFX</br>
+                J. F. DiMarzio</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3146).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Java EE and HTML5 Enterprise Application Development
-                John Brock
+320.  Java EE and HTML5 Enterprise Application Development</br>
+                John Brock</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3147).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                UNIX System Administration: A Beginner’s Guide
-                Steve Maxwell
+321.  UNIX System Administration: A Beginner's Guide</br>
+                Steve Maxwell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3148).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The White Devil
-                John Webster
+322. The White Devil</br>
+                John Webster</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3149).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                How to do Everything with JavaScript
-                Scott Duffy
+323. How to do Everything with JavaScript</br>
+                Scott Duffy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3150).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java A Beginner’s Guide: Third Edition
-                Herbert Schildt
+324. Java A Beginner's Guide: Third Edition</br>
+                Herbert Schildt</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3151).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                The Raven 
-                 Edgar Allan Poe
+325.  The Raven </br>
+                 Edgar Allan Poe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3152).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-                Java Demystified
-                Jim Keogh
+326.  Java Demystified</br>
+                Jim Keogh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3153).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java A Beginner’s Guide Fourth Edition
-                Herbert Schildt
+327. Java A Beginner's Guide Fourth Edition</br>
+                Herbert Schildt</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3154).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Programming With Java: A Problem Solving Approach
-                John S. Dean
+328.  Introduction to Programming With Java: A Problem Solving Approach</br>
+                John S. Dean</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3155).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Object Oriented Software Engineering: Second edition
-                Timothy C. Lethbridge
+329. Object Oriented Software Engineering: Second edition</br>
+                Timothy C. Lethbridge</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3156).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Integrating Linux and Windows
-                Mike McCune
+330. Integrating Linux and Windows</br>
+                Mike McCune</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3157).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Advanced Java Networking: Second Edition
-                Prashant Sridharan
+331. Advanced Java Networking: Second Edition</br>
+                Prashant Sridharan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3158).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Core Java 2: Volume II, Advanced Features
-                Cay S. Horstmann
+332. Core Java 2: Volume II, Advanced Features</br>
+                Cay S. Horstmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3159).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Core JSTL: Mastering the JSP Standard Tag Library
-                David M. Geary
+333. Core JSTL: Mastering the JSP Standard Tag Library</br>
+                David M. Geary</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3160).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Core Techniques and Algorithms in Game Programming
-                Daniel Sanchez
+334. Core Techniques and Algorithms in Game Programming</br>
+                Daniel Sanchez</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3161).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Eclipse Modeling Framework: A Developer's Guide
-                Frank Budinsky
+335. Eclipse Modeling Framework: A Developer's Guide</br>
+                Frank Budinsky</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3162).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Java Application Development on Linux
-                Carl Albing
+336. Java Application Development on Linux</br>
+                Carl Albing</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3163).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Samba 3 by Example: Practical Exercises to Successful Deployment
-                John H. Terpstra
+337.  Samba 3 by Example: Practical Exercises to Successful Deployment</br>
+                John H. Terpstra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3164).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                A Practical Guide to Linux commands, Editors, and Shell Programming
-                Mark G. Sobell
+338.  A Practical Guide to Linux commands, Editors, and Shell Programming</br>
+                Mark G. Sobell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3165).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Java Programming, Brief Version, Eighth Edition
-                Y. Daniel Liang
+ 339.  Introduction to Java Programming, Brief Version, Eighth Edition</br>
+                Y. Daniel Liang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3166).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Essential Linux Device Drivers
-                Sreekrishnan Venkateswaran
+340. Essential Linux Device Drivers</br>
+                Sreekrishnan Venkateswaran</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3167).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Absolute Java 5th Edition
-                Walter Savitch
+341.  Absolute Java 5th Edition</br>
+                Walter Savitch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3168).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Simply Visual Basic 2010: Fourth Edition
-                Paul Deitel
+342. Simply Visual Basic 2010: Fourth Edition</br>
+                Paul Deitel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3169).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Linux Hardening In Hostile Networks
-                Kyle Rankin
+ 343. Linux Hardening In Hostile Networks</br>
+                Kyle Rankin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3170).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Game Design, Prototyping, and Development: Second Edition
-                Jeremy Gibson Bond
+344. Introduction to Game Design, Prototyping, and Development: Second Edition</br>
+                Jeremy Gibson Bond</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3171).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
-                The Odyssey
-                Homer
+345. The Odyssey</br>
+                Homer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3172).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Java for Programmers
-                Paul J. Deitel
+346. Java for Programmers</br>
+                Paul J. Deitel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3173).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                J2EE Connector Architecture and Enterprise Application Integration
-                Rahul Sharma
+347. J2EE Connector Architecture and Enterprise Application Integration</br>
+                Rahul Sharma</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3174).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Spinning the Semantic Web: Bringing the WWW to Its Full Potential
-                Dieter Fensel
+348.  Spinning the Semantic Web: Bringing the WWW to Its Full Potential</br>
+                Dieter Fensel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3175).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Visual Basic 2010 for Students: Fourth Edition
-                Douglas Bell
+349.  Visual Basic 2010 for Students: Fourth Edition</br>
+                Douglas Bell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3176).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                An Introduction to Graphical User Interfaces with Java Swing
-                Paul Fischer
+350.  An Introduction to Graphical User Interfaces with Java Swing</br>
+                Paul Fischer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3177).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Algorithm Design
-                Jon Kleinberg, Eva Tardos
+ 351.  Algorithm Design</br>
+                Jon Kleinberg, Eva Tardos</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3178).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Eclipse Web Tools Platform: Developing Java Web Applications
-                Naci Dai
+352. Eclipse Web Tools Platform: Developing Java Web Applications</br>
+                Naci Dai</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3179).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             		
