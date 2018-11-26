@@ -406,7 +406,7 @@
                 John Chapman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2920).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-     85. The Tragedy of Romeo and Juliet</br>
+85. The Tragedy of Romeo and Juliet</br>
                 William Shakespeare</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2921).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
@@ -496,40 +496,23 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2937).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Advances in Information Technology
-                Borworn Papasratorn
+102. Advances in Information Technology</br>
+                Borworn Papasratorn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2938).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Natural Language in Business Process Models
-                Henrik Leopold
+103. Natural Language in Business Process Models</br>
+                Henrik Leopold</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2939).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-
-
-                Cooperative Device to Device Communication in Cognitive Radio Cellular Networks
-                Peng Li
+104. Cooperative Device to Device Communication in Cognitive Radio Cellular Networks</br>
+                Peng Li</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2940).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
- 
-                The Born-Einstein Letters
-                Irene Born
+105. The Born-Einstein Letters</br>
+                Irene Born</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2941).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
