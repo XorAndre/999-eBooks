@@ -1160,283 +1160,129 @@
                 Calin Rada</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3086).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-              
-			
-			
-
-
-                MATLAB Deep Learning
-                Phil Kim
+252. MATLAB Deep Learning</br>
+                Phil Kim</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3087).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-
-
-
-
-                Mastering Parallel Programming with R
-                Simon R. Chapple
+253. Mastering Parallel Programming with R</br>
+                Simon R. Chapple</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3088).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Visual Basic 2015
-                Mark Maslach
+ 254. Introduction to Visual Basic 2015</br>
+                Mark Maslach</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3089).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                PostgreSQL Administration Cookbook
-                Simon Riggs
+255. PostgreSQL Administration Cookbook</br>
+                Simon Riggs</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3090).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Blender Python API
-                Chris Conlan
+256. The Blender Python API</br>
+                Chris Conlan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3091).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Spring 5.0
-                Tejaswini Mandar Jog
+257. Learning Spring 5.0</br>
+                Tejaswini Mandar Jog</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3092).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Terrestrial Satellite Communication Networks
-                Linling Kuang
+258.  Terrestrial Satellite Communication Networks</br>
+                Linling Kuang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3093).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Web Semantics for Textual and Visual Information Retrieval
-                Aarti Singh
+259.  Web Semantics for Textual and Visual Information Retrieval</br>
+                Aarti Singh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3094).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Angular For .Net Developers
-                Rajesh Gunasundaram
+260. Learning Angular For .Net Developers</br>
+                Rajesh Gunasundaram</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3095).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Struts Framework
-                Sue Spielman
+261.  The Struts Framework</br>
+                Sue Spielman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3096).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Web Development with MongoDB and Node.js
-                Jason Krol
+262. Web Development with MongoDB and Node.js</br>
+                Jason Krol</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3097).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Up to Speed with Swing
-                Steven Gutz
+263. Up to Speed with Swing</br>
+                Steven Gutz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3098).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Text Mining with R
-                Julia Silge
+264. Text Mining with R</br>
+                Julia Silge</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3099).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Problem Solving in Data Structures and Algorithms Using JAVA
-                Hemant Jain
+265. Problem Solving in Data Structures and Algorithms Using JAVA</br>
+                Hemant Jain</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3100).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to JVM Languages
-                vincent van der Leun 
+266. Introduction to JVM Languages</br>
+                vincent van der Leun </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3101).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Building Custom Tasks for SQL Server Integration Services
-                Andy Leonard
+267. Building Custom Tasks for SQL Server Integration Services</br>
+                Andy Leonard</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3102).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                BPEL and Java Cookbook
-                Jurij Laznik
+268. BPEL and Java Cookbook</br>
+                Jurij Laznik</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3103).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Digital Java EE 7 Web Application Development
-                Peter Pilgrim
+269. Digital Java EE 7 Web Application Development</br>
+                Peter Pilgrim</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3104).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fast Data Processing with Spark
-                Holden Karau
+270. Fast Data Processing with Spark</br>
+                Holden Karau</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3105).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Database Reliability Engineering
-                Laine Campbell
+271. Database Reliability Engineering</br>
+                Laine Campbell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3106).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             		
-
-
-
-
-                OpenStack Administration with Ansible 2
-                Walter Bentley
+272. OpenStack Administration with Ansible 2</br>
+                Walter Bentley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3107).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java: Data Science Made Easy
-                Richard M. Reese
+273.  Java: Data Science Made Easy</br>
+                Richard M. Reese</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3108).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java EE 7 Performance Tuning and Optimization
-                Osama Oransa
+274. Java EE 7 Performance Tuning and Optimization</br>
+                Osama Oransa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3109).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Managing Data Using Excel
-                Mark Gardener
+275.  Managing Data Using Excel</br>
+                Mark Gardener</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3110).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                HTML5 and CSS3, Second Edition
-                Brian P. Hogan
+276. HTML5 and CSS3, Second Edition</br>
+                Brian P. Hogan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3111).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Craft of Model Based Testing
-                Paul C. Jorgensen
+277. The Craft of Model Based Testing</br>
+                Paul C. Jorgensen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3112).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Apache Spark 2
-                Muhammad Asif Abbasi
+278. Learning Apache Spark 2</br>
+                Muhammad Asif Abbasi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3113).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-			
-
-
-                Mastering Elastic Stack
-                Ravi Kumar Gupta
+279. Mastering Elastic Stack</br>
+                Ravi Kumar Gupta</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3114).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Streaming Architecture
-                Ted Dunning
+280. Streaming Architecture</br>
+                Ted Dunning</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3115).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                iOS Code Testing
-                Abhishek Mishra
+281. iOS Code Testing</br>
+                Abhishek Mishra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3116).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Cyber Security on Azure
-                Marshall Copeland
+282. Cyber Security on Azure</br>
+                Marshall Copeland</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3117).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
