@@ -148,122 +148,67 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2867).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Waves and Structures in Nonlinear Nondispersive Media
-                S.N. Gurbatov
+32.  Waves and Structures in Nonlinear Nondispersive Media</br>
+                S.N. Gurbatov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2868).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Propagation in Solid and Porous Half Space Media
-                Hamid R. Hamidzadeh
+33. Wave Propagation in Solid and Porous Half Space Media</br>
+                Hamid R. Hamidzadeh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2869).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Propagation Theories And Applications
-                Yi Zheng
+34.  Wave Propagation Theories And Applications</br>
+                Yi Zheng</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2870).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Processes In Classical And New Solids
-                Pasquale Giovine
+35.  Wave Processes In Classical And New Solids</br>
+                Pasquale Giovine</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2871).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Waves In Fluids And Solids
-                R.P. Vila
+36. Waves In Fluids And Solids</br>
+                R.P. Vila</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2872).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Propagation and Underwater Acoustics
-                Joseph B. Keller
+37. Wave Propagation and Underwater Acoustics</br>
+                Joseph B. Keller</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2873).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Energy Conversion And Ocean Thermal Energy Conversion Potential In Developing Member Countries
-                Asian Development Bank
+38. Wave Energy Conversion And Ocean Thermal Energy Conversion Potential In Developing Member Countries</br>
+                Asian Development Bank</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2874).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Wave Propagation in Fluids
-                Vincent Guinot
+39. Wave Propagation in Fluids</br>
+                Vincent Guinot</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2875).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Wave Physics
-                Stephen Nettel
+40. Wave Physics</br>
+                Stephen Nettel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2876).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Computer Science Distilled
-                Wladston Ferreira Filho
+41. Computer Science Distilled</br>
+                Wladston Ferreira Filho</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2877).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
- 
-
-
-                The 100 Most Influential Scientists Of All Time
-                Kara Rogers
+42. The 100 Most Influential Scientists Of All Time</br>
+                Kara Rogers</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2878).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Software Project Estimation
-                Alain Abran
+43. Software Project Estimation</br>
+                Alain Abran</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2879).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Functional Software Size Measurement Methodology with Effort Estimation and Performance Indication
-                Jasveer Singh
+44. Functional Software Size Measurement Methodology with Effort Estimation and Performance Indication</br>
+                Jasveer Singh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2880).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
