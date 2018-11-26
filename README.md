@@ -1976,445 +1976,205 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3274).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Clearly Visual Basic: Second Edition
-                Diane Zak
+453.  Clearly Visual Basic: Second Edition</br>
+                Diane Zak</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3275).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Android Game Programming For Dummies
-                Derek James
+454. Android Game Programming For Dummies</br>
+                Derek James</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3276).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Working with NHibernate 3.0
-                Benjamin Perkins
+455.  Working with NHibernate 3.0</br>
+                Benjamin Perkins</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3277).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
 
-
-
-
- 
-                The Help
-                Kathryn Stockett
+456. The Help</br>
+                Kathryn Stockett</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3278).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
- 
-                 The Stand
-                Stephen King
+457. The Stand</br>
+                Stephen King</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3279).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-                Big Data for Dummies
-                Judith Hurwitz
+458. Big Data for Dummies</br>
+                Judith Hurwitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3280).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                The Lightning Thief
-                Rick Riordan
+459. The Lightning Thief</br>
+                Rick Riordan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3281).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
 
-
-
-
-
-                Cognitive Computing and Big Data Analytics
-                Judith Hurwitz
+460. Cognitive Computing and Big Data Analytics</br>
+                Judith Hurwitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3282).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            			
-			
-			
-			
-	
-
-                Exploring BeagleBone
-                Derek Molloy
+461. Exploring BeagleBone</br>
+                Derek Molloy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3283).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                It
-                Stephen King
+462. It</br>
+                Stephen King</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3284).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-
-                Linux Professional Institute Certification: 2, 2nd Edition
-                Christine Bresnahan
+463.  Linux Professional Institute Certification: 2, 2nd Edition</br>
+                Christine Bresnahan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3285).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java All in One for Dummies: 5th Edition
-                Doug Lowe
+464.  Java All in One for Dummies: 5th Edition</br>
+                Doug Lowe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3286).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Programming for Android Developers: 2nd Edition
-                Barry Burd
+465. Java Programming for Android Developers: 2nd Edition</br>
+                Barry Burd</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3287).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                MCSA Windows Server 2016: Study Guide
-                William Panek
+466.  MCSA Windows Server 2016: Study Guide</br>
+                William Panek</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3288).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Game Coding Complete: Fourth Edition
-                Mike McShaffry
+467. Game Coding Complete: Fourth Edition</br>
+                Mike McShaffry</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3289).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Level Design: Processes and Experiences
-                Christopher W. Totten
+468.  Level Design: Processes and Experiences</br>
+                Christopher W. Totten</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3290).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Internet Psychology: The Basics
-                Yair Amichai
+469.  Internet Psychology: The Basics</br>
+                Yair Amichai</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3291).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaScript for Sound Artists
-                William Turner
+470. JavaScript for Sound Artists</br>
+                William Turner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3292).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Making Deep Games: Designing Games with Meaning & Purpose
-                Doris C. Rusch 
+471.  Making Deep Games: Designing Games with Meaning & Purpose</br>
+                Doris C. Rusch </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3293).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                UX Style Frameworks: Creating Collaborative Standards
-                Marti Gold
+472. UX Style Frameworks: Creating Collaborative Standards</br>
+                Marti Gold</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3294).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                History of Digital Games: Developments in Art, Design & Interaction
-                Andrew Williams
+473.  History of Digital Games: Developments in Art, Design & Interaction</br>
+                Andrew Williams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3295).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
- 
-                A Journey to the Centre of the Earth
-                Jules Verne
+474.  A Journey to the Centre of the Earth</br>
+                Jules Verne</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3296).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                Paper Towns
-                John Green 
+475.  Paper Towns</br>
+                John Green </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3297).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Watership Down
-                Richard Adams
+476.  Watership Down</br>
+                Richard Adams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3298).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Joomla! 3 Boot Camp
-                Robin D. Turner
+477.  Joomla! 3 Boot Camp</br>
+                Robin D. Turner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3299).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fundamental 2D Game Programming with Java
-                Timothy Wright
+478. Fundamental 2D Game Programming with Java</br>
+                Timothy Wright</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3300).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Programming Fundamentals
-                Premchand S. Nair
+479. Java Programming Fundamentals</br>
+                Premchand S. Nair</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3301).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Statistical Computing in C++ and R
-                Randall L. Eubank
+480.  Statistical Computing in C++ and R</br>
+                Randall L. Eubank</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3302).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Learn C on the Mac
-                Dave Mark
+481. Learn C on the Mac</br>
+                Dave Mark</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3303).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Learn Objective C on the Mac
-                Mark Dalrymple
+482.  Learn Objective C on the Mac</br>
+                Mark Dalrymple</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3304).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Pro OpenSolaris
-                Harry J. Foxwell
+483.  Pro OpenSolaris</br>
+                Harry J. Foxwell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3305).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Pro ASP.NET Extensibility
-                Jorg Krause
+484.  Pro ASP.NET Extensibility</br>
+                Jorg Krause</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3306).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaFX 2.0: Introduction by Example
-                Carl Dea
+485. JavaFX 2.0: Introduction by Example</br>
+                Carl Dea</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3307).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                CSS3 Solutions: Essential Techniques for CSS3 Developers
-                Marco Casario
+486.  CSS3 Solutions: Essential Techniques for CSS3 Developers</br>
+                Marco Casario</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3308).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Learn Java for Android Development: 2nd Edition
-                Jeff Friesen
+487.  Learn Java for Android Development: 2nd Edition</br>
+                Jeff Friesen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3309).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Multi Threaded Game Engine Design
-                Jonathan S. Harbour
+488. Multi Threaded Game Engine Design</br>
+                Jonathan S. Harbour</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3310).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fundamentals of Grid Computing
-                Frederic Magoules
+489.  Fundamentals of Grid Computing</br>
+                Frederic Magoules</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3311).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Linux Kernel Module Programming Guide
-                Peter Jay Salzman
+490. The Linux Kernel Module Programming Guide</br>
+                Peter Jay Salzman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3312).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Voice over IP Security
-                Angelos D. Keromytis
+491.  Voice over IP Security</br>
+                Angelos D. Keromytis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3313).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JSON at Work
-                Tom Marrs
+492.  JSON at Work</br>
+                Tom Marrs</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3314).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                SVG Essentials
-                J. David Eisenberg
+493. SVG Essentials</br>
+                J. David Eisenberg</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3315).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Cloud Native Java
-                Josh Long
+494.  Cloud Native Java</br>
+                Josh Long</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3316).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Data Mining Applications Using Artificial Adaptive Systems
-                William J. Tastle
+495. Data Mining Applications Using Artificial Adaptive Systems</br>
+                William J. Tastle</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3317).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Sustainable Web Ecosystem Design
-                Gregory O Toole
+496. Sustainable Web Ecosystem Design</br>
+                Gregory O Toole</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3318).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Mining User Generated Content
-                Marie Francine Moens
+497.  Mining User Generated Content</br>
+                Marie Francine Moens</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3319).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Architectures and Protocols for Secure Information Technology Infrastructures
-                Antonio Ruiz Martinez
+498. Architectures and Protocols for Secure Information Technology Infrastructures</br>
+                Antonio Ruiz Martinez</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3320).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
- 
-                Selenium 2 Testing Tools: Beginner's Guide
-                David D. Burns
+499.  Selenium 2 Testing Tools: Beginner's Guide</br>
+                David D. Burns</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3321).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-
-                Applied Evolutionary Algorithms in Java
-                Robert Ghanea Hercock
+500. Applied Evolutionary Algorithms in Java</br>
+                Robert Ghanea Hercock</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3322).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
