@@ -1285,278 +1285,120 @@
                 Marshall Copeland</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3117).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                NoSQL Database For Storage and Retrieval of Data in Cloud
-                Ganesh Chandra Deka
+283. NoSQL Database For Storage and Retrieval of Data in Cloud</br>
+                Ganesh Chandra Deka</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3118).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginner's Guide to Android App Development
-                Serhan Yamacli
+ 284. Beginner's Guide to Android App Development</br>
+                Serhan Yamacli</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3119).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Pro Continuous Delivery
-                Nikhil Pathania
+285. Pro Continuous Delivery</br>
+                Nikhil Pathania</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3120).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Distributed Computing in Java 9
-                Raja Malleswara Rao Pattamsetti
+286. Distributed Computing in Java 9</br>
+                Raja Malleswara Rao Pattamsetti</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3121).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Kali Linux for Advanced Penetration Testing
-                Vijay Kumar Velu
+287.  Mastering Kali Linux for Advanced Penetration Testing</br>
+                Vijay Kumar Velu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3122).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Perl Cookbook
-                Tom Christiansen
+288. Perl Cookbook</br>
+                Tom Christiansen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3123).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Big Data Management and Processing
-                Kuan Ching Li
+289. Big Data Management and Processing</br>
+                Kuan Ching Li</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3124).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Java Machine Learning
-                Krishna Choppella
+290. Mastering Java Machine Learning</br>
+                Krishna Choppella</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3125).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Oracle SQL Tuning with Oracle SQLTXPLAIN
-                Stelios Charalambides
+291.  Oracle SQL Tuning with Oracle SQLTXPLAIN</br>
+                Stelios Charalambides</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3126).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Data Analysis with Microsoft Excel
-                Kenneth N. Berk
+292. Data Analysis with Microsoft Excel</br>
+                Kenneth N. Berk</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3127).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
- 
- 
-                A Theory of Justice
-                John Rawls
+293. A Theory of Justice</br>
+                John Rawls</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3128).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Stiff: The Curious Lives of Human Cadavers
-                Mary Roach
+294. Stiff: The Curious Lives of Human Cadavers</br>
+                Mary Roach</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3129).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                2061: Odissey Three
-                 Arthur C. Clarke
+295. 2061: Odissey Three</br>
+                 Arthur C. Clarke</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3130).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                G&ouml;del, Escher, Bach: An Eternal Golden Braid
-                Douglas Hofstadter
+296. G&ouml;del, Escher, Bach: An Eternal Golden Braid</br>
+                Douglas Hofstadter</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3131).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-            
-
-              
-                Wonderful life: The Burgess Shale and the Nature of History
-                Stephen Jay Could
+297.  Wonderful life: The Burgess Shale and the Nature of History</br>
+                Stephen Jay Could</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3132).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-                 
-                What Evolution Is
-                Ernst Mayr
+298. What Evolution Is</br>
+                Ernst Mayr</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3133).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-               
-                Jurassic Park
-                Michael Crichton
+299. Jurassic Park</br>
+                Michael Crichton</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3134).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-           
-             
- 
 
-                The 10,000 Year Explosion
-                 Gregory Cochran & Henry Harpending
+300. The 10,000 Year Explosion</br>
+                 Gregory Cochran & Henry Harpending</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3135).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-               
-
-         
-
-
-
-
-
-                Learning SQL
-                Alan Beaulieu
+301. Learning SQL</br>
+                Alan Beaulieu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3136).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Midnight's Children
-                Salman Rushdie 
+302. Midnight's Children</br>
+                Salman Rushdie </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3137).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-			
-			
-			
-			
-
-
-
-                HTML5 Guide
-                MadCap Software
+303. HTML5 Guide</br>
+                MadCap Software</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00001.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Delivering Carrier Ethernet
-                Abdul Kasim
+304. Delivering Carrier Ethernet</br>
+                Abdul Kasim</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00002.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-
-			
-				
-
-
-
-                Wireless Mobility
-                Neil Reid
+305.  Wireless Mobility</br>
+                Neil Reid</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00003.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Probability Models
-                Sheldon M. Ross
+306.  Introduction to Probability Models</br>
+                Sheldon M. Ross</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00004.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-			
-
-
-			
-				
-
-
-
-                Data Communications and Networking
-                Behrouz A. Forouzan
+307.  Data Communications and Networking</br>
+                Behrouz A. Forouzan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00005.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                UNIX Network Programming
-                Andrew M. Rudoff
+308. UNIX Network Programming</br>
+                Andrew M. Rudoff</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00006.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-		
-		
-		
-					
-
-
-
-                Java Software Solutions
-                John Lewis
+309. Java Software Solutions</br>
+                John Lewis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00007.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Code: The Hidden Language of Computer Hardware and Software
-                Charles Petzold
+310.  Code: The Hidden Language of Computer Hardware and Software</br>
+                Charles Petzold</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf00008.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            		
-		
-		
-		
-	
-
-                Samba: UNIX and NT Networking
-                James DeRoest
+311.  Samba: UNIX and NT Networking</br>
+                James DeRoest</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3138).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
