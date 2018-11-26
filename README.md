@@ -1642,488 +1642,220 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(03196).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-		
-		
- 
-                Dexter In The Dark
-                 Jeff Lindsay  
+371.  Dexter In The Dark</br>
+                 Jeff Lindsay </br> 
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3193).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Biometric System and Data Analysis
-                Ted Dunstone
+372.  Biometric System and Data Analysis</br>
+                Ted Dunstone</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3194).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Dexter is Delicious
-                Jeff Lindsay
+373.  Dexter is Delicious</br>
+                Jeff Lindsay</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3195).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-			
-			
-
-
-                Mobile Web Services: Architecture and Implementation
-                Frederick Hirsch
+374. Mobile Web Services: Architecture and Implementation</br>
+                Frederick Hirsch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3196).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
- 
-                Autobiography of a Yogi
-                Paramhansa Yogananda
+375.  Autobiography of a Yogi</br>
+                Paramhansa Yogananda</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3197).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                Wings of fire
-                Dr APJ Abdul Kalam
+376.   Wings of fire</br>
+                Dr APJ Abdul Kalam</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3198).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Night
-                Elie Wiesel
+377. Night</br>
+                Elie Wiesel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3199).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Linux for Dummies: Eighth Edition
-                Dee Ann LeBlanc
+378. Linux for Dummies: Eighth Edition</br>
+                Dee Ann LeBlanc</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3200).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Windows Server 2008 Bible
-                Jeffrey R. Shapiro
+379. Windows Server 2008 Bible</br>
+                Jeffrey R. Shapiro</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3201).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Computing
-                David Evans
+380.  Introduction to Computing</br>
+                David Evans</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3202).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java and Flex Integration Bible
+381. Java and Flex Integration Bible
                 Matthew Keefe
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3203).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fedora 10 and Red Hat Enterprise Linux Bible
-                Christopher Negus
+382. Fedora 10 and Red Hat Enterprise Linux Bible</br>
+                Christopher Negus</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3204).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introducing Maya 2011
-                Dariush Derakhshani
+383.  Introducing Maya 2011</br>
+                Dariush Derakhshani</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3205).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-			
-
-
-                Java Tools for Extreme Programming
-                Richard Hightower
+384. Java Tools for Extreme Programming</br>
+                Richard Hightower</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3206).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Network Query Language(NQL)
-                David Pallmann
+385. Network Query Language(NQL)</br>
+                David Pallmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3207).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Making Use of JSP
-                Madhushree Ganguli
+386. Making Use of JSP</br>
+                Madhushree Ganguli</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3208).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-             
-
-
-
-
-                Java Enterprise Design Patterns: Volume 3
-                Mark Grand
+387. Java Enterprise Design Patterns: Volume 3</br>
+                Mark Grand</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3209).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                ASP.NET in 60 Minutes a Day
-                Glenn Johnson
+388.  ASP.NET in 60 Minutes a Day</br>
+                Glenn Johnson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3210).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Solaris Solutions for System Administrators
-                Sandra Henry Stocker
+389.  Solaris Solutions for System Administrators</br>
+                Sandra Henry Stocker</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3211).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Tools
-                Andreas Eberhart
+390. Java Tools</br>
+                Andreas Eberhart</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3212).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Data Structures and Algorithms in Java
-                Michael T. Goodrich
+391.  Data Structures and Algorithms in Java</br>
+                Michael T. Goodrich</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3213).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fuzzy Systems Engineering Toward Human Centric Computing
-                Witold Pedrycz
+ 392.  Fuzzy Systems Engineering Toward Human Centric Computing</br>
+                Witold Pedrycz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3214).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Density Ratio Estimation in Machine Learning
-                Masashi Sugiyama
+393. Density Ratio Estimation in Machine Learning</br>
+                Masashi Sugiyama</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3215).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Data Intensive Computing: Architectures, Algorithms, and Applications
-                Ian Gorton
+394.  Data Intensive Computing: Architectures, Algorithms, and Applications</br>
+                Ian Gorton</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3216).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Bayesian Time Series Models
-                David Barber
+395.  Bayesian Time Series Models</br>
+                David Barber</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3217).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Language, Cohesion and Form
-                Margaret Masterman
+396.   Language, Cohesion and Form</br>
+                Margaret Masterman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3218).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Perl & LWP
-                Sean M. Burke
+397. Perl & LWP</br>
+                Sean M. Burke</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3219).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Apollo for Adobe Flex Developers
-                Mike Chambers
+398. Apollo for Adobe Flex Developers</br>
+                Mike Chambers</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3220).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning OpenCV
-                Gary Bradski
+399.  Learning OpenCV</br>
+                Gary Bradski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3221).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                The Art of Capacity Planning
-                John Allspaw
+400. The Art of Capacity Planning</br>
+                John Allspaw</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3222).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Perl Hacks
-                chromatic
+401. Perl Hacks</br>
+                chromatic</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3223).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Information Architecture for the World Wide Web
-                Peter Morville
+402. Information Architecture for the World Wide Web</br>
+                Peter Morville</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3224).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                RESTful Web Services Cookbook
-                Subbu Allamaraju
+403.  RESTful Web Services Cookbook</br>
+                Subbu Allamaraju</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3225).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                WordPress Revealed: 2nd Edition (2017)
-                Matt Wolfe
+404.  WordPress Revealed: 2nd Edition (2017)</br>
+                Matt Wolfe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3226).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Linux Mandrake in 24 Hours
-                Craig Witherspoon
+405.  Linux Mandrake in 24 Hours</br>
+                Craig Witherspoon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3227).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Open Source Web Site Construction Kit
-                Thomas Schenk
+406. Open Source Web Site Construction Kit</br>
+                Thomas Schenk</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3228).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
-
-
-                JavaScript in 21 Days
-                Andrew Watt
+407. JavaScript in 21 Days</br>
+                Andrew Watt</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3229).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Connector Architecture: Building Enterprise Adaptors
-                Atul Apte
+408.  Java Connector Architecture: Building Enterprise Adaptors</br>
+                Atul Apte</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3230).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Perl in 24 Hours Third Edition
-                Clinton Pierce
+409. Perl in 24 Hours Third Edition</br>
+                Clinton Pierce</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3231).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                Vernon God Little
-                DBC Pierre
+410.  Vernon God Little</br>
+                DBC Pierre</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3232).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-	
-
-
-
-
-                Windows Server 2008 Hyper V
-                Rand Morimoto
+411. Windows Server 2008 Hyper V</br>
+                Rand Morimoto</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3233).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                A Canticle for Leibowitz
-                Walter M. Miller, Jr.
+412. A Canticle for Leibowitz</br>
+                Walter M. Miller, Jr.</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3234).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
- 
-
-              
-                A Princess of Mars
-                Edgar Rice Burroughs
+413.  A Princess of Mars</br>
+                Edgar Rice Burroughs</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3235).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Quick and Easy Link Building Ideas
-                Shivani Karwal
+414.  Quick and Easy Link Building Ideas</br>
+                Shivani Karwal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3236).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-                 
-                The Pilo Family Circus
-                Will Elliott
+415.  The Pilo Family Circus</br>
+                Will Elliott</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3237).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-	
-	
-	
-	
-
-                Microsoft Windows Workflow Foundation
-                Kenn Scribner
+416.  Microsoft Windows Workflow Foundation</br>
+                Kenn Scribner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3238).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Microsoft Application Architecture Guide: 2nd Edition
-                Microsoft
+417.  Microsoft Application Architecture Guide: 2nd Edition</br>
+                Microsoft</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3239).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introducing Windows Server 2012 R2: Technical Overview
-                Mitch Tulloch
+418. Introducing Windows Server 2012 R2: Technical Overview</br>
+                Mitch Tulloch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3240).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                More Eric Meyer on CSS
-                Eric A. Meyer
+419.  More Eric Meyer on CSS</br>
+                Eric A. Meyer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3241).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                TCP/IP Tutorial and Technical Overview: Eighth Edition
-                Lydia Parziale
+420.  TCP/IP Tutorial and Technical Overview: Eighth Edition</br>
+                Lydia Parziale</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3242).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Linux Client Migration Cookbook, Version 2
-                Chris Almond
+421.  Linux Client Migration Cookbook, Version 2</br>
+                Chris Almond</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3243).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning Direct 3D Game Programming
-                Wolfgang F. Engel
+422.  Beginning Direct 3D Game Programming</br>
+                Wolfgang F. Engel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3244).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java 2 Enterprise Edition Bible
-                Justin Couch
+423. Java 2 Enterprise Edition Bible</br>
+                Justin Couch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3245).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
