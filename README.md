@@ -311,114 +311,59 @@
                 David Weiner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2900).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            			
-			
-			
-
-
-                Data Mining Opportunities and Challenges
-                John Wang
+            						
+65. Data Mining Opportunities and Challenges</br>
+                John Wang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2901).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            			
-
-
-
-                Digital Watermarking For Digital Media
-                Juergen Seitz
+66. Digital Watermarking For Digital Media</br>
+                Juergen Seitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2902).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-			
-			
-			
-
-                Shaders For Game Programmers And Artists
-                Sebastien ST Laurent
+67. Shaders For Game Programmers And Artists</br>
+                Sebastien ST Laurent</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2903).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-			
-			
- 
-
- 
-                Beautiful Stories From Shakespeare
-                Edith Nesbit
+ 68. Beautiful Stories From Shakespeare</br>
+                Edith Nesbit</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2904).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Performance Modeling of Communication Networks with Markov Chains
-                Jeonghoon Mo
+       69. Performance Modeling of Communication Networks with Markov Chains</br>
+                Jeonghoon Mo</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2905).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Designing Software Intensive Systems
-                Pierre F. Tiako
+   70. Designing Software Intensive Systems</br>
+                Pierre F. Tiako</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2906).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Mobile Peer to Peer Computing for Next Generation Distributed Environments
-                Boon Chong Seet
+71. Mobile Peer to Peer Computing for Next Generation Distributed Environments</br>
+                Boon Chong Seet</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2907).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             		
-
-
-
-
-                Computational Methods for Integrating Vision and Language
-                Kobus Barnard
+72. Computational Methods for Integrating Vision and Language</br>
+                Kobus Barnard</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2908).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                The Tempest
-                William Shakespeare
+73. The Tempest</br>
+                William Shakespeare</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2909).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Academic Podcasting and Mobile Assisted Language Learning
-                Betty Rose Facer
+74. Academic Podcasting and Mobile Assisted Language Learning</br>
+                Betty Rose Facer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2910).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Powerful PowerPoint for Educators
-                David M. Marcovitz
+75. Powerful PowerPoint for Educators</br>
+                David M. Marcovitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2911).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Meta Communication for Reflective Online Conversations
-                Ugur Demiray
+76. Meta Communication for Reflective Online Conversations</br>
+                Ugur Demiray</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2912).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
