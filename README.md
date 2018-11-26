@@ -515,263 +515,140 @@
                 Irene Born</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2941).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                The Little Book of String Theory
-                Steven S. Gubser
+106. The Little Book of String Theory</br>
+                Steven S. Gubser</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2942).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-             
- 
-                Quantum Field Theory
-                 Michio Kaku
+107. Quantum Field Theory</br>
+                 Michio Kaku</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2943).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-           
-             
-
-                 The Meaning of Relativity
-                Albert Einstein
+108. The Meaning of Relativity</br>
+                Albert Einstein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2944).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-                Supercomputing for Molecular Dynamics Simulations
-                Alexander Heinecke
+109.  Supercomputing for Molecular Dynamics Simulations</br>
+                Alexander Heinecke</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2945).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Information Theoretic Security
-                Anja Lehmann
+110. Information Theoretic Security</br>
+                Anja Lehmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2946).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Implementation and Application of Automata
-                Yo Sub Han
+111.Implementation and Application of Automata</br>
+                Yo Sub Han</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2947).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Information Technology and Computational Physics
-                Piotr Kulczycki
+112. Information Technology and Computational Physics</br>
+                Piotr Kulczycki</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2948).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Cyberspace
-                J. Martin Ramirez
+ 113. Cyberspace</br>
+                J. Martin Ramirez</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2949).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                A Practical Guide to Sentiment Analysis
-                Erik Cambria
+ 114. A Practical Guide to Sentiment Analysis</br>
+                Erik Cambria</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2950).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Science and Art of Simulation I
-                Michael M. Resch
+ 115. The Science and Art of Simulation I</br>
+                Michael M. Resch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2951).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Applications of Evolutionary Computation
-                Giovanni Squillero
+116. Applications of Evolutionary Computation</br>
+                Giovanni Squillero</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2952).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Theory and Applications of Models of Computation
-                T.V. Gopal
+117. Theory and Applications of Models of Computation</br>
+                T.V. Gopal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2953).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
- 
- 
-                Atkins' Physical Chemistry 
-                 Peter Atkins & Julio de Paula
+118. Atkins' Physical Chemistry </br>
+                 Peter Atkins & Julio de Paula</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2954).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                The Evolution of Physics
-                A. Einstein & L. Infeld
+ 119. The Evolution of Physics</br>
+                A. Einstein & L. Infeld</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2955).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-             
-
-                Einstein on Cosmic Religion and other Opinions & Aphorisms
-                 Albert Einstein 
+120. Einstein on Cosmic Religion and other Opinions & Aphorisms</br>
+                 Albert Einstein </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2956).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Models for Cooperative Games with Fuzzy Relations among the Agents
-                Andres Jimenez
+121. Models for Cooperative Games with Fuzzy Relations among the Agents</br>
+                Andres Jimenez</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2957).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-
-
-                Advances in Cryptology EUROCRYPT 2017
-                Jean Sebastien Coron
+122. Advances in Cryptology EUROCRYPT 2017</br>
+                Jean Sebastien Coron</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2958).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-
-
-                Gesture Recognition
-                Sergio Escalera
+123. Gesture Recognition</br>
+                Sergio Escalera</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2959).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                The World As I See It
-                 Albert Einstein 
+124. The World As I See It</br>
+                 Albert Einstein </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2960).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                Business Modeling and Software Design
-                Boris Shishkov
+125. Business Modeling and Software Design</br>
+                Boris Shishkov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2961).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Progress in Cryptology AFRICACRYPT 2017
-                Marc Joye
+126.  Progress in Cryptology AFRICACRYPT 2017</br>
+                Marc Joye</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2962).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Data Privacy
-                Vicenc Torra
+127.  Data Privacy</br>
+                Vicenc Torra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2963).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Guide to Convolutional Neural Networks
-                Hamed Habibi Aghdam
+ 128. Guide to Convolutional Neural Networks</br>
+                Hamed Habibi Aghdam</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2964).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Introduction to Morphogenetic Computing
-                Germano Resconi
+129. Introduction to Morphogenetic Computing</br>
+                Germano Resconi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2965).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            
-
-
-
-
-                Technology Enhanced Assessment
-                Mart Laanpere
+ 130. Technology Enhanced Assessment</br>
+                Mart Laanpere</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2966).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-
-
-                Grid Generation Methods
-                Vladimir D. Liseikin
+131.  Grid Generation Methods</br>
+                Vladimir D. Liseikin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2967).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             
-
-
-
-
-                The End of Faith
-                Sam Harris
+132. The End of Faith</br>
+                Sam Harris</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2968).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Algorithms for Computational Biology
-                Daniel Figueiredo
+133. Algorithms for Computational Biology</br>
+                Daniel Figueiredo</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2969).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Systems for Big Graph Analytics
-                Da Yan
+134. Systems for Big Graph Analytics</br>
+                Da Yan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2970).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
