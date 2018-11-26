@@ -367,12 +367,8 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2912).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Investigating Cyber Law and Cyber Ethics
-                Alfreda Dudley
+77. Investigating Cyber Law and Cyber Ethics</br>
+                Alfreda Dudley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2913).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
