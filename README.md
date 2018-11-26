@@ -2607,728 +2607,306 @@
                 Pawel Kozlowski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3442).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Node Web Development: Second Edition
-                David Herron
+621. Node Web Development: Second Edition</br>
+                David Herron</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3443).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Kali Linux 2: Windows Penetration Testing
-                Wolf Halton
+622. Kali Linux 2: Windows Penetration Testing</br>
+                Wolf Halton</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3444).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Citrix XenApp Performance Essentials
-                Luca Dentella
+623.  Citrix XenApp Performance Essentials</br>
+                Luca Dentella</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3445).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Gamification with Moodle
-                Natalie Denmeade
+624. Gamification with Moodle</br>
+                Natalie Denmeade</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3446).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning NServiceBus Sagas
-                Rich Helton
+625.  Learning NServiceBus Sagas</br>
+                Rich Helton</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3447).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Java for Data Science
-                Alexey Grigorev
+626.  Mastering Java for Data Science</br>
+                Alexey Grigorev</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3448).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Web Application Development with R Using Shiny: Second Edition
-                Chris Beeley
+627.  Web Application Development with R Using Shiny: Second Edition</br>
+                Chris Beeley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3449).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Troubleshooting System Center Configuration Manager
-                Peter Egerton
+628.  Troubleshooting System Center Configuration Manager</br>
+                Peter Egerton</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3450).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Extending Ansible
-                Rishabh Das
+629.  Extending Ansible</br>
+                Rishabh Das</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3451).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Alfresco for Administrators
-                Vandana Pal
+630.  Alfresco for Administrators</br>
+                Vandana Pal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3452).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Building an RPG with Unreal 4.x
-                Steve Santello
+631.  Building an RPG with Unreal 4.x</br>
+                Steve Santello</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3453).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Creating Stunning Dashboards with QlikView
-                Julian Villafuerte
+632.  Creating Stunning Dashboards with QlikView</br>
+                Julian Villafuerte</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3454).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Learning ArcGIS for Desktop
-                Daniela Cristiana Docan
+633.  Learning ArcGIS for Desktop</br>
+                Daniela Cristiana Docan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3455).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Citrix XenApp 7.x Performance Essentials
-                Luca Dentella
+634. Citrix XenApp 7.x Performance Essentials</br>
+                Luca Dentella</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3456).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Using CiviCRM: Second Edition
-                Erik Hommel
+635. Using CiviCRM: Second Edition</br>
+                Erik Hommel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3457).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mathematica Data Visualization
-                Nazmus Saquib
+636.  Mathematica Data Visualization</br>
+                Nazmus Saquib</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3458).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-			
-
-
-
-                concrete5 for Developers
-                Sufyan bin Uzayr
+637.  concrete5 for Developers</br>
+                Sufyan bin Uzayr</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3459).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-               
-			
-			
-
-
-                Apache Mahout Clustering Designs
-                Ashish Gupta
+638. Apache Mahout Clustering Designs</br>
+                Ashish Gupta</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3460).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Redis Applied Design Patterns
-                Arun Chinnachamy
+639. Redis Applied Design Patterns</br>
+                Arun Chinnachamy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3461).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Sass and Compass Designer's Cookbook
-                Bass Jobsen
+640.  Sass and Compass Designer's Cookbook</br>
+                Bass Jobsen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3462).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Magento 2 Administration
-                Bret Williams
+641.  Learning Magento 2 Administration</br>
+                Bret Williams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3463).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Game Development with Swift
-                Stephen Haney
+642.  Game Development with Swift</br>
+                Stephen Haney</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3464).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Getting Started with React
-                Doel Sengupta
+643.  Getting Started with React</br>
+                Doel Sengupta</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3465).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Mastering Android Game Development with Unity
-                Siddharth Shekar
+644.  Mastering Android Game Development with Unity</br>
+                Siddharth Shekar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3466).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Unity 3D UI Essentials
-                Simon Jackson
+645. Unity 3D UI Essentials</br>
+                Simon Jackson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3467).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Leaflet.js Essentials
-                Paul Crickard III
+646.  Leaflet.js Essentials</br>
+                Paul Crickard III</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3468).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Learning JavaScript Data Structures and Algorithms
-                Loiane Groner
+647. Learning JavaScript Data Structures and Algorithms</br>
+                Loiane Groner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3469).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                jQuery Mobile Web Development Essentials: Third Edition
-                Raymond Camden
+648. jQuery Mobile Web Development Essentials: Third Edition</br>
+                Raymond Camden</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3470).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Learning Unity 2D Game Development by Example
-                Venita Pereira
+649. Learning Unity 2D Game Development by Example</br>
+                Venita Pereira</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3471).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Building a Web Application with PHP and MariaDB: A Reference Guide
-                Sai Srinivas Sriparasa
+650. Building a Web Application with PHP and MariaDB: A Reference Guide</br>
+                Sai Srinivas Sriparasa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3472).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Chef Essentials
-                John Ewart
+651.  Chef Essentials</br>
+                John Ewart</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3473).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mockito Essentials
-                Sujoy Acharya
+652. Mockito Essentials</br>
+                Sujoy Acharya</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3474).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Apache Maven 3
-                Prabath Siriwardena
+653.  Mastering Apache Maven 3</br>
+                Prabath Siriwardena</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3475).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Highcharts Essentials
-                Bilal Shahid
+654.  Highcharts Essentials</br>
+                Bilal Shahid</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3476).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Arduino Home Automation Projects
-                Marco Schwartz
+655.  Arduino Home Automation Projects</br>
+                Marco Schwartz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3477).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Arduino Networking
-                Marco Schwartz
+656.  Arduino Networking</br>
+                Marco Schwartz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3478).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Maven for Eclipse
-                Sanjay Shah
+657.  Maven for Eclipse</br>
+                Sanjay Shah</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3479).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Maven Build Customization
-                Lorenzo Anardu
+658.  Maven Build Customization</br>
+                Lorenzo Anardu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3480).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                OpenFlow Cookbook
-                Kingston Smiler. S
+659.  OpenFlow Cookbook</br>
+                Kingston Smiler. S</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3481).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                PhoneGap and AngularJS for Cross platform Development
-                Yuxian
+660.  PhoneGap and AngularJS for Cross platform Development</br>
+                Yuxian</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3482).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                PostgreSQL Administration Essentials
-                Hans Jurgen Schonig
+661.  PostgreSQL Administration Essentials</br>
+                Hans Jurgen Schonig</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3483).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning to Program with Python 
-                Richard L. Halterman
+662.  Learning to Program with Python </br>
+                Richard L. Halterman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3484).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Programming the BeagleBone
-                Yogesh Chavan
+663.  Programming the BeagleBone</br>
+                Yogesh Chavan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3485).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Cocos2D Game Development Essentials
-                Ben Trengrove
+664. Cocos2D Game Development Essentials</br>
+                Ben Trengrove</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3486).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Getting Started with Ionic
-                Rahat Khanna
+665.  Getting Started with Ionic</br>
+                Rahat Khanna</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3487).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Entity Framework
-                Rahul Rajat Singh
+666. Mastering Entity Framework</br>
+                Rahul Rajat Singh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3488).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Unity 5.x Cookbook
-                Matt Smith
+667. Unity 5.x Cookbook</br>
+                Matt Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3489).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fast Data Processing with Spark: Second Edition
-                Krishna Sankar
+668. Fast Data Processing with Spark: Second Edition</br>
+                Krishna Sankar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3490).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Ceph Cookbook
-                Karan Singh
+669.  Ceph Cookbook</br>
+                Karan Singh</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3491).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning iOS 8 Game Development Using Swift
-                Siddharth Shekar
+670. Learning iOS 8 Game Development Using Swift</br>
+                Siddharth Shekar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3492).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                CORS(Cross Origin Resource Sharing) Essentials
-                Rajesh Gunasundaram
+671.  CORS (Cross Origin Resource Sharing) Essentials</br>
+                Rajesh Gunasundaram</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3493).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Unreal Engine Physics Essentials
-                Katax Emperore
+672. Unreal Engine Physics Essentials</br>
+                Katax Emperore</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3494).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                OpenStack for Architects
-                Michael Solberg
+673.  OpenStack for Architects</br>
+                Michael Solberg</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3495).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Go Programming
-                Vladimir Vivien
+674.  Learning Go Programming</br>
+                Vladimir Vivien</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3496).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Learning RSLogix 5000 Programming
-                Austin Scott
+675.  Learning RSLogix 5000 Programming</br>
+                Austin Scott</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3497).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                NHibernate 4.x Cookbook: Second Edition
-                Gunnar Liljas
+676. NHibernate 4.x Cookbook: Second Edition</br>
+                Gunnar Liljas</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3498).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Mastering ArcGIS Server Development with JavaScript
-                Ken Doman
+677. Mastering ArcGIS Server Development with JavaScript</br>
+                Ken Doman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3499).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Machine Learning in Java
-                Bostjan Kaluza
+ 678.  Machine Learning in Java</br>
+                Bostjan Kaluza</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3500).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Google App Engine
-                Mohsin Shafique Hijazee
+679.  Mastering Google App Engine</br>
+                Mohsin Shafique Hijazee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3501).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Phalcon Cookbook
-                David Schissler
+680.   Phalcon Cookbook</br>
+                David Schissler</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3502).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Creating Development Environments with Vagrant: 2nd Edition
-                Michael Peacock
+681. Creating Development Environments with Vagrant: 2nd Edition</br>
+                Michael Peacock</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3503).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Six Not So Easy Pieces
-                 Richard P. Feynman, Robert B. Leighton & Matthew Sands
+682.  Six Not So Easy Pieces</br>
+                 Richard P. Feynman, Robert B. Leighton & Matthew Sands</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3504).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Learning Unreal Engine Game Development
-                Joanna Lee
+683. Learning Unreal Engine Game Development</br>
+                Joanna Lee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3505).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering KVM Virtualization
-                Humble Devassy Chirammal
+684.  Mastering KVM Virtualization</br>
+                Humble Devassy Chirammal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3506).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Practical Machine Learning
-                Sunila Gollapudi
+685. Practical Machine Learning</br>
+                Sunila Gollapudi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3507).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Unity iOS Game Development
-                Kyle Langley
+686.  Learning Unity iOS Game Development</br>
+                Kyle Langley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3508).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Node.js for .NET Developers
-                Harry Cummings
+687.  Learning Node.js for .NET Developers</br>
+                Harry Cummings</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3509).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java for Data Science
-                Richard M. Reese
+688.   Java for Data Science</br>
+                Richard M. Reese</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3510).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                LLVM Essentials
-                Suyog Sarda
+689.  LLVM Essentials</br>
+                Suyog Sarda</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3511).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                LibGDX Game Development By Example
-                James Cook
+690.  LibGDX Game Development By Example</br>
+                James Cook</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3512).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Python Game Programming By Example
-                Alejandro Rodas de Paz
+691.  Python Game Programming By Example</br>
+                Alejandro Rodas de Paz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3513).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Building a Recommendation Engine with Scala
-                Saleem Ansari
+692.  Building a Recommendation Engine with Scala</br>
+                Saleem Ansari</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3514).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Xamarin 4 By Example
-                Matteo Bortolu
+693. Xamarin 4 By Example</br>
+                Matteo Bortolu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3515).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Building a Pentesting Lab for Wireless Networks
-                Vyacheslav Fadyushin
+694. Building a Pentesting Lab for Wireless Networks</br>
+                Vyacheslav Fadyushin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3516).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Red Hat Enterprise Linux Troubleshooting Guide
-                Benjamin Cane
+695. Red Hat Enterprise Linux Troubleshooting Guide</br>
+                Benjamin Cane</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3517).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Clojure High Performance Programming: Second Edition
-                Shantanu Kumar
+696.  Clojure High Performance Programming: Second Edition</br>
+                Shantanu Kumar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3518).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                iOS Game Development By Example
-                Samanyu Chopra
+697.  iOS Game Development By Example</br>
+                Samanyu Chopra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3519).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java EE Development with Eclipse: Second Edition
-                Ram Kulkarni
+698.  Java EE Development with Eclipse: Second Edition</br>
+                Ram Kulkarni</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3520).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Revolution 2020
-                Chetan Bhagat
+699.  Revolution 2020</br>
+                Chetan Bhagat</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3521).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Android Sensor Programming By Example
-                Varun Nagpal
+700.  Android Sensor Programming By Example</br>
+                Varun Nagpal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3522).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
