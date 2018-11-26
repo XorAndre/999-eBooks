@@ -1858,273 +1858,121 @@
                 Justin Couch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3245).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Windows XP Bible, Desktop Edition
-                Alan Simpson
+424. Windows XP Bible, Desktop Edition</br>
+                Alan Simpson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3246).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-               
-                Lord of Light
-                Roger Zelazny
+425. Lord of Light</br>
+                Roger Zelazny</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3247).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Creating Web Pages For Dummies: 7TH EDITION
-                Bud E. Smith
+426. Creating Web Pages For Dummies: 7TH EDITION</br>
+                Bud E. Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3248).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                Beginning Programming with Java For Dummies: 2nd Edition
-                Barry Burd
+427. Beginning Programming with Java For Dummies: 2nd Edition</br>
+                Barry Burd</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3249).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Beginning Visual Basic 2005 Databases
-                Thearon Willis
+ 428. Beginning Visual Basic 2005 Databases</br>
+                Thearon Willis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3250).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                ActionScript 3.0 Game Programming University
-                Gary Rosenzweig
+429.  ActionScript 3.0 Game Programming University</br>
+                Gary Rosenzweig</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3251).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-
-                The Robots of Dawn
-                Isaac Asimov
+430.  The Robots of Dawn</br>
+                Isaac Asimov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3252).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Conducting Meta Analysis Using SAS
-                Winfred Arthur, Jr.
+ 431.  Conducting Meta Analysis Using SAS</br>
+                Winfred Arthur, Jr.</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3253).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Codes and Curves: Volume 7
-                Judy L. Walker
+432. Codes and Curves: Volume 7</br>
+                Judy L. Walker</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3254).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Robust Control Systems With Genetic Algorithms
-                Mo Jamshidi
+433.  Robust Control Systems With Genetic Algorithms</br>
+                Mo Jamshidi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3255).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Python Language Reference: Release 2.6.3
-                Guido van Rossum
+434.  The Python Language Reference: Release 2.6.3</br>
+                Guido van Rossum</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3256).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                php: Architect’s Guide to Enterprise PHP Development
-                Ivo Jansch
+435. php: Architect’s Guide to Enterprise PHP Development</br>
+                Ivo Jansch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3257).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The JavaScript Anthology: 101 Essential Tips, Tricks & Hacks
-                James Edwards
+436. The JavaScript Anthology: 101 Essential Tips, Tricks & Hacks</br>
+                James Edwards</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3258).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Build Your Own Web Site The Right Way: Using HTML & CSS
-                Ian Lloyd
+437. Build Your Own Web Site The Right Way: Using HTML & CSS</br>
+                Ian Lloyd</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3259).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
- 
-                The Gods Themselves
-                Isaac Asimov
+438. The Gods Themselves</br>
+                Isaac Asimov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3260).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                The CSS Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition
-                Rachel Andrew
+439. The CSS Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition</br>
+                Rachel Andrew</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3261).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                The Art & Science Of JavaScript
-                Cameron Adams
+440. The Art & Science Of JavaScript</br>
+                Cameron Adams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3262).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Ultimate CSS Reference
-                Tommy Olsson
+441.  The Ultimate CSS Reference</br>
+                Tommy Olsson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3263).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Everything you Know About CSS is Wrong!
-                Rachel Andrew
+442.  Everything you Know About CSS is Wrong!</br>
+                Rachel Andrew</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3264).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Build your Own Website The Right Way Using HTML & CSS: 2nd Edition
-                Ian Lloyd
+443. Build your Own Website The Right Way Using HTML & CSS: 2nd Edition</br>
+                Ian Lloyd</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3265).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
-
-                The Demolished Man
-                Alfred Bester
+444. The Demolished Man</br>
+                Alfred Bester</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3266).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-	
-
-
-
-
-                C Sharp Programming
-                Wikibooks.org
+445.  C Sharp Programming</br>
+                Wikibooks.org</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3267).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Jump Start Coffee Script
-                Earle Castledine
+446.   Jump Start Coffee Script</br>
+                Earle Castledine</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3268).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            		
-
-
-
-
-                ng book: The Complete Book on AngularJS
-                Ari Lerner
+447. ng book: The Complete Book on AngularJS</br>
+                Ari Lerner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3269).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                CSS Master
-                Tiffany B. Brown
+ 448.  CSS Master</br>
+                Tiffany B. Brown</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3270).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Researching UX: Analytics
-                Luke Hay
+449.  Researching UX: Analytics</br>
+                Luke Hay</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3271).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Designing UX: Prototyping
-                Ben Coleman
+ 450.  Designing UX: Prototyping</br>
+                Ben Coleman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3272).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Google SEO for Bloggers
-                Joseph Hogue
+451.  Google SEO for Bloggers</br>
+                Joseph Hogue</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3273).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Basic Concepts in Data Structures
-                Shmuel Tomi Klein
+452.  Basic Concepts in Data Structures</br>
+                Shmuel Tomi Klein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3274).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
