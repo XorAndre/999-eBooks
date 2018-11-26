@@ -292,38 +292,23 @@
                 
             
            
-             
-
-                Invisible Man
-                Ralph Ellison
+ 61. Invisible Man</br>
+                Ralph Ellison</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2897).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
 	
-
-
-
-
-                COM Beyond Microsoft
-                Gene Cronin
+62. COM Beyond Microsoft</br>
+                Gene Cronin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2898).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Improving the Visibility and Use of Digital Repositories through SEO
-                Kenning Arlitsch
+63. Improving the Visibility and Use of Digital Repositories through SEO</br>
+                Kenning Arlitsch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2899).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Dynamics AX
-                David Weiner
+ 64. Dynamics AX</br>
+                David Weiner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2900).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             			
