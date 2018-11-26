@@ -212,151 +212,82 @@
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2880).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Certified Cloud Security Professional
-                Brian T.O. Hara
+45. Certified Cloud Security Professional</br>
+                Brian T.O. Hara</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2881).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                VMware Software Defined Storage
-                Martin Hosken
+46. VMware Software Defined Storage</br>
+                Martin Hosken</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2882).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
- 
-
- 
-                Divine Comedy
-                Dante Alighieri
+47. Divine Comedy</br>
+                Dante Alighieri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2883).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Mining Multimedia Documents
-                Wahiba Ben Abdessalem Karaa
+48. Mining Multimedia Documents</br>
+                Wahiba Ben Abdessalem Karaa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2884).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Guide to Networking Essentials
-                Greg Tomsho
+49. Guide to Networking Essentials</br>
+                Greg Tomsho</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2885).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                CompTIA A+ Certification
-                Judi Kling, Andy LaPage
+50. CompTIA A+ Certification</br>
+                Judi Kling, Andy LaPage</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2886).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Why New Systems Fail
-                Phil Simon
+51.  Why New Systems Fail</br>
+                Phil Simon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2887).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
- 
-                Anna Karenina
-                Leo Tolstoy
+52. Anna Karenina</br>
+                Leo Tolstoy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2888).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-
-
-
-
-
-                ACS Without an Attitude
-                Harold L. Hallock
+53. ACS Without an Attitude</br>
+                Harold L. Hallock</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2889).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                An Introduction to Programming in Go
-                Caleb Doxsey
+54. An Introduction to Programming in Go</br>
+                Caleb Doxsey</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2890).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Learn Ionic 2
-                Joyce Justin
+55. Learn Ionic 2</br>
+                Joyce Justin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2891).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Stable Analysis Patterns for Software and Systems
-                M. E. Fayad
+56. Stable Analysis Patterns for Software and Systems</br>
+                M. E. Fayad</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2892).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                The Craft of Model Based Testing
-                Paul C. Jorgensen
+57. The Craft of Model Based Testing</br>
+                Paul C. Jorgensen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2893).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Social Network Analysis
-                Xiaoming Fu
+58. Social Network Analysis</br>
+                Xiaoming Fu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2894).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Introduction To Middleware
-                Letha Hughes Etzkorn
+59. Introduction To Middleware</br>
+                Letha Hughes Etzkorn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2895).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
- 
-                Crime and Punishment
-                Fyodor Dostoevsky
+60. Crime and Punishment</br>
+                Fyodor Dostoevsky</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2896).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
