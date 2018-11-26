@@ -2320,202 +2320,73 @@
                 Matt Cole</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3362).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                C++: Learn C++ Like a Boss
-                Isaac D. Cody
+541. C++: Learn C++ Like a Boss</br>
+                Isaac D. Cody</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3363).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                JavaScript: 2 Books in 1
-                Charlie Masterson
+542. JavaScript: 2 Books in 1</br>
+                Charlie Masterson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3364).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learn Java: The Complete Beginner’s Guide To Learn Java Programming
-                Bruce Berke
+543. Learn Java: The Complete Beginner’s Guide To Learn Java Programming</br>
+                Bruce Berke</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3365).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Beginning Angular 2 with Typescript
-                Greg Lim
+544.  Beginning Angular 2 with Typescript</br>
+                Greg Lim</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3366).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Neural Networks By Examples Using Matlab
-                F. Marques
+545.  Neural Networks By Examples Using Matlab</br>
+                F. Marques</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3367).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                JavaScript: Advanced Guide to Programming Code with JavaScript
-                Charlie Masterson
+546. JavaScript: Advanced Guide to Programming Code with JavaScript</br>
+                Charlie Masterson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3368).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                JavaScript: The Ultimate Beginner’s Guide to Learn JS Effectively
-                Daniel Jones
+547.  JavaScript: The Ultimate Beginner’s Guide to Learn JS Effectively</br>
+                Daniel Jones</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3369).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Neural Networks Using Matlab: Cluster Analysis & Classification
-                K. Taylor
+548. Neural Networks Using Matlab: Cluster Analysis & Classification</br>
+                K. Taylor</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3370).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Linux Mint 18: Guide for Beginners
-                William Rowley
+549. Linux Mint 18: Guide for Beginners</br>
+                William Rowley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3371).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Neural Networks for Complete Beginners
-                Mark Smart
+550. Neural Networks for Complete Beginners</br>
+                Mark Smart</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3372).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                TOR: Exactly How to Remain Invisible on the Anonymous Deep Web
-                Joshua Cody
+551. TOR: Exactly How to Remain Invisible on the Anonymous Deep Web</br>
+                Joshua Cody</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3373).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                JavaScript: Tips and Tricks to Learn JS Quickly and effectively
-                Daniel Jones
+552. JavaScript: Tips and Tricks to Learn JS Quickly and effectively</br>
+                Daniel Jones</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3374).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                WordPress SEO 2017
-                Dr. Andy Williams
+553. WordPress SEO 2017</br>
+                Dr. Andy Williams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3375).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Windows 10: The ultimate Windows 10 user guide and manual!
-                Anonymous
+554. Windows 10: The ultimate Windows 10 user guide and manual!</br>
+                Anonymous</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3376).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-			
-			
-
-
-                Neural Networks: Applications & Examples Using Matlab
-                J. Smith
+555. Neural Networks: Applications & Examples Using Matlab</br>
+                J. Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3377).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Big Data Analytics With Neural Networks Using Matlab
-                J. Smith
+556. Big Data Analytics With Neural Networks Using Matlab</br>
+                J. Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3378).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Neural Network Architectures: Examples Using Matlab
-                J. Smith
+557. Neural Network Architectures: Examples Using Matlab</br>
+                J. Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3379).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                How to Erase Yourself From The Internet Completely
-                Mohan J. Menon
+558. How to Erase Yourself From The Internet Completely</br>
+                Mohan J. Menon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3380).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Woo Commerce Tutorial: How to set it up on your website?
-                Sunny Chanday
+559. Woo Commerce Tutorial: How to set it up on your website?</br>
+                Sunny Chanday</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3381).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                WordPress Security Made Easy
-                Niko Guruli
+560. WordPress Security Made Easy</br>
+                Niko Guruli</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3382).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Game Engine Architecture
-                Jason Gregory
+561. Game Engine Architecture</br>
+                Jason Gregory</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3383).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Game Engine Gems 2
-                Eric Lengyel
+562. Game Engine Gems 2</br>
+                Eric Lengyel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3384).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
