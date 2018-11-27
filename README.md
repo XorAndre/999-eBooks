@@ -3237,186 +3237,81 @@
                 Dirk Strauss</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3608).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Game Audio Development with Unity 5.X
-                Micheal Lanham
+801. Game Audio Development with Unity 5.X</br>
+                Micheal Lanham</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3609).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Java EE Development with WildFly
-                Luca Stancapiano
+802. Mastering Java EE Development with WildFly</br>
+                Luca Stancapiano</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3610).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Meteor: Full Stack Web Application Development
-                Fabian Vogelsteller
+ 803.  Meteor: Full Stack Web Application Development</br>
+                Fabian Vogelsteller</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3611).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Enterprise PowerShell Scripting Bootcamp
-                Brenton J.W. Blawat
+804. Enterprise PowerShell Scripting Bootcamp</br>
+                Brenton J.W. Blawat</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3612).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learn Python in 7 Days
-                Mohit
+805. Learn Python in 7 Days</br>
+                Mohit</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3613).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Reactive Android Programming
-                Tadas Subonis
+806.  Reactive Android Programming</br>
+                Tadas Subonis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3614).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Essential Angular
-                Victor Savkin
+807.  Essential Angular</br>
+                Victor Savkin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3615).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                KVM Virtualization Cookbook
-                Konstantin Ivanov
+808.  KVM Virtualization Cookbook</br>
+                Konstantin Ivanov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3616).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                DevOps: Puppet, Docker, and Kubernetes
-                Thomas Uphill
+809. DevOps: Puppet, Docker, and Kubernetes</br>
+                Thomas Uphill</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3617).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                HTML5 in easy steps: 2nd Edition
-                Mike McGrath
+810. HTML5 in easy steps: 2nd Edition</br>
+                Mike McGrath</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3618).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                C++ Programming in easy steps: 5th Edition
-                Mike McGrath
+811. C++ Programming in easy steps: 5th Edition</br>
+                Mike McGrath</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3619).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                LWUIT 1.1 for Java ME Developers
-                Biswajit Sarkar
+812.  LWUIT 1.1 for Java ME Developers</br>
+                Biswajit Sarkar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3620).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Stepping into Virtual Reality
-                Daniel Thalmann
+813.  Stepping into Virtual Reality</br>
+                Daniel Thalmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3621).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Text Searching Algorithms 
-                Jan Holub
+814.  Text Searching Algorithms </br>
+                Jan Holub</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/tsa-lectures-1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-				
-			
-	
-
-                Automatic Speech Recognition on Mobile Devices and Over Communication Networks
-                Zheng Hua Tan
+815. Automatic Speech Recognition on Mobile Devices and Over Communication Networks</br>
+                Zheng Hua Tan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3622).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Knowledge Mining Using Intelligent Agents
-                Satchidananda Dehuri
+816.  Knowledge Mining Using Intelligent Agents</br>
+                Satchidananda Dehuri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3623).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Panda3D 1.7 Game Developer's Cookbook
-                Christoph Lang
+817. Panda3D 1.7 Game Developer's Cookbook</br>
+                Christoph Lang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3624).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Life of Galileo 
-                Bertolt Brecht
+818. The Life of Galileo </br>
+                Bertolt Brecht</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3625).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-			
-			
-			
-
-                JBoss AS 7: Configuration, Deployment, and Administration
-                Francesco Marchioni
+819.  JBoss AS 7: Configuration, Deployment, and Administration</br>
+                Francesco Marchioni</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3626).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-               
-			
-			
-
-
-                Unity Android Game Development by Example: Beginner's Guide
-                Thomas Finnegan
+820.  Unity Android Game Development by Example: Beginner's Guide</br>
+                Thomas Finnegan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3627).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
