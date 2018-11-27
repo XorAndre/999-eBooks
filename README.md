@@ -3927,112 +3927,51 @@
                 Mikael Johansson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3781).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Evolutionary Scheduling
-                Keshav P. Dahal
+961.  Evolutionary Scheduling</br>
+                Keshav P. Dahal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3782).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Subdivision Surfaces
-                Jorg Peters
+962.  Subdivision Surfaces</br>
+                Jorg Peters</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3783).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Semantic Service Provisioning
-                Dominik Kuropka
+963. Semantic Service Provisioning</br>
+                Dominik Kuropka</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3784).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Operational Semantics & Verification of Security Protocols
-                Cas Cremers
+964.  Operational Semantics & Verification of Security Protocols</br>
+                Cas Cremers</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3785).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Graphs and Algorithms in Communication Networks
-                Arie M.C.A. Koster
+965.  Graphs and Algorithms in Communication Networks</br>
+                Arie M.C.A. Koster</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3786).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Recent Advances in Harmony Search Algorithm
-                ZongWoo Geem
+966.  Recent Advances in Harmony Search Algorithm</br>
+                ZongWoo Geem</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3787).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Inductive Inference for Large Scale Text Classification
-                Catarina Silva
+967. Inductive Inference for Large Scale Text Classification</br>
+                Catarina Silva</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3788).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                IPv6 in Practice: A Unixer’s Guide to the Next Generation Internet
-                Benedikt Stockebrand
+968.  IPv6 in Practice: A Unixer’s Guide to the Next Generation Internet</br>
+                Benedikt Stockebrand</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3789).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fault Detection & Flight Data Measurement
-                Ihab Samy
+969.  Fault Detection & Flight Data Measurement</br>
+                Ihab Samy</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3790).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Model Based Engineering of Embedded Systems
-                Klaus Pohl
+970. Model Based Engineering of Embedded Systems</br>
+                Klaus Pohl</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3791).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Algorithms & Computation: ISAAC 2012
-                Kun Mao Chao
+971.  Algorithms & Computation: ISAAC 2012</br>
+                Kun Mao Chao</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3792).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Power of Algorithms: Inspiration & Examples in Everyday Life
-                Giorgio Ausiello
+972. The Power of Algorithms: Inspiration & Examples in Everyday Life</br>
+                Giorgio Ausiello</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3793).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
