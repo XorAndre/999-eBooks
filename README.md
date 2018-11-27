@@ -3150,211 +3150,91 @@
                 Samuli Thomasson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3585).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Python Deep Learning
-                Valentino Zocca
+766.  Python Deep Learning</br>
+                Valentino Zocca</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3586).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Akka
-                Christian Baxter
+777.  Mastering Akka</br>
+                Christian Baxter</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3587).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Angular Test Driven Development: 2nd Edition
-                Md. Ziaul Haq
+778.  Angular Test Driven Development: 2nd Edition</br>
+                Md. Ziaul Haq</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3588).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Flux Architecture
-                Adam Boduch
+779.  Flux Architecture</br>
+                Adam Boduch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3589).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                .NET Design Patterns
-                Praseed Pai
+780. .NET Design Patterns</br>
+                Praseed Pai</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3590).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Spring Microservices
-                Rajesh RV
+781.  Spring Microservices</br>
+                Rajesh RV</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3591).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-                 
-                C For Dummies
-                Dan Gookin
+782. C For Dummies</br>
+                Dan Gookin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3592).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-
-
-
-
-                Vue.js 2 Cookbook
-                Andrea Passaglia
+783.  Vue.js 2 Cookbook</br>
+                Andrea Passaglia</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3593).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java 9 Programming By Example
-                Peter Verhas
+784. Java 9 Programming By Example</br>
+                Peter Verhas</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3594).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Mastering TypeScript: Second Edition
-                Nathan Rozentals
+785. Mastering TypeScript: Second Edition</br>
+                Nathan Rozentals</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3595).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering SFML Game Development
-                Raimondas Pupius
+786. Mastering SFML Game Development</br>
+                Raimondas Pupius</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3596).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Vue.js 2
-                Olga Filipova
+787. Learning Vue.js 2</br>
+                Olga Filipova</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3597).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Swift 3 Object-Oriented Programming: 2nd Edition
-                Gaston C. Hillar
+788.  Swift 3 Object-Oriented Programming: 2nd Edition</br>
+                Gaston C. Hillar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3598).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Docker Orchestration
-                Randall Smith
+789.  Docker Orchestration</br>
+                Randall Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3599).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Java Data Science Cookbook
-                Rushdi Shams
+790. Java Data Science Cookbook</br>
+                Rushdi Shams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3600).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Augmented Reality Game Development
-                Micheal Lanham
+791. Augmented Reality Game Development</br>
+                Micheal Lanham</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3601).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                HTML5 and CSS3: Building Responsive Websites
-                Thoriq Firdaus
+792. HTML5 and CSS3: Building Responsive Websites</br>
+                Thoriq Firdaus</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3602).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Python: Master the Art of Design Patterns
-                Dusty Phillips
+793. Python: Master the Art of Design Patterns</br>
+                Dusty Phillips</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3603).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Getting Started with Angular: Second Edition
-                Minko Gechev
+794.  Getting Started with Angular: Second Edition</br>
+                Minko Gechev</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3604).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Programming Kotlin
-                Stephen Samuel
+795. Programming Kotlin</br>
+                Stephen Samuel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3605).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                WordPress Web Application Development: 3rd Edition
-                Rakhitha Nimesh Ratnayake
+798.  WordPress Web Application Development: 3rd Edition</br>
+                Rakhitha Nimesh Ratnayake</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3606).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                AWS Administration Cookbook
-                Lucas Chan
+799.   AWS Administration Cookbook</br>
+                Lucas Chan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3607).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                C# 7 and .NET Core Cookbook
-                Dirk Strauss
+800. C# 7 and .NET Core Cookbook</br>
+                Dirk Strauss</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3608).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
