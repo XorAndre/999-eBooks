@@ -3060,230 +3060,94 @@
                 Allan Espinosa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3560).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Magento 2 Cookbook
-                Ray Bogman
+741.  Magento 2 Cookbook</br>
+                Ray Bogman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3561).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering PHP Design Patterns
-                Junade Ali
+ 742.  Mastering PHP Design Patterns</br>
+                Junade Ali</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3562).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Getting Started with SpriteKit
-                Jorge Jordan
+743. Getting Started with SpriteKit</br>
+                Jorge Jordan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3563).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Building Microservices with .NET Core
-                Gaurav Kumar Aroraa
+744. Building Microservices with .NET Core</br>
+                Gaurav Kumar Aroraa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3564).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Getting Started with hapi.js
-                John Brett
+745. Getting Started with hapi.js</br>
+                John Brett</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3565).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Proxmox: Second Edition
-                Wasim Ahmed
+746. Mastering Proxmox: Second Edition</br>
+                Wasim Ahmed</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3566).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Learning CoreOS
-                Kingston Smiler. S
+747. Learning CoreOS</br>
+                Kingston Smiler. S</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3567).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Unity 5.x By Example
-                Alan Thorn
+748. Unity 5.x By Example</br>
+                Alan Thorn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3568).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering .NET Machine Learning
-                Jamie Dixon
+749.  Mastering .NET Machine Learning</br>
+                Jamie Dixon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3569).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Node.js 6.x Blueprints
-                Fernando Monteiro
+750. Node.js 6.x Blueprints</br>
+                Fernando Monteiro</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3570).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning Grunt
-                Douglas Reynolds
+751. Learning Grunt</br>
+                Douglas Reynolds</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3571).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Learning Modular Java Programming
-                Tejaswini Mandar Jog
+752. Learning Modular Java Programming</br>
+                Tejaswini Mandar Jog</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3572).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Securing Docker
-                Scott Gallagher
+753.  Securing Docker</br>
+                Scott Gallagher</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3573).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Bootstrap 4 Cookbook
-                Ajdin Imsirovic
+754.  Bootstrap 4 Cookbook</br>
+                Ajdin Imsirovic</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3574).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learning AWS Lumberyard Game Development
-                Dr. Edward Lavieri
+755.  Learning AWS Lumberyard Game Development</br>
+                Dr. Edward Lavieri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3575).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Mastering Oculus Rift Development
-                Jack Donovan
+756. Mastering Oculus Rift Development</br>
+                Jack Donovan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3576).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
- 
- 
-                Twenty Thousand Leagues under the Sea
-                Jules Verne
+757.   Twenty Thousand Leagues under the Sea</br>
+                Jules Verne</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3577).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                The Bully Book
-                Eric Kahn Gale
+758. The Bully Book</br>
+                Eric Kahn Gale</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3578).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-             
- 
-                The Chronicles Of Narnia
-                 C.S. Lewis
+759. The Chronicles Of Narnia</br>
+                 C.S. Lewis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3579).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-
-
-
-
-
-                Building RESTful Python Web Services
-                Gaston C. Hillar
+760.  Building RESTful Python Web Services</br>
+                Gaston C. Hillar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3580).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Moodle 3.x Teaching Techniques: Third Edition
-                Susan Smith Nash
+761. Moodle 3.x Teaching Techniques: Third Edition</br>
+                Susan Smith Nash</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3581).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Mastering Reactive JavaScript
-                Erich de Souza Oliveira
+762.  Mastering Reactive JavaScript</br>
+                Erich de Souza Oliveira</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3582).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                The Autobiography of Alice B Toklas (1933)
-                Gertrude Stein
+763. The Autobiography of Alice B Toklas (1933)</br>
+                Gertrude Stein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3583).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                A Moveable Feast
-                Ernest Hemingway
+764. A Moveable Feast</br>
+                Ernest Hemingway</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3584).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Haskell High Performance Programming
-                Samuli Thomasson
+765. Haskell High Performance Programming</br>
+                Samuli Thomasson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3585).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
