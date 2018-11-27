@@ -3690,201 +3690,90 @@
                 Zadie Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3721).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Fifty Shades of Grey
-                E. L. James
+901. Fifty Shades of Grey</br>
+                E. L. James</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3722).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                Angels & Demons
-                 Dan Brown
+902.  Angels & Demons</br>
+                 Dan Brown</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3723).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-               Aggregation Functions in Theory & in Practice
-                Vicenc Torra
+903.  Aggregation Functions in Theory & in Practice</br>
+                Vicenc Torra</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3724).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                Is Christianity Good for the World? A Debate Between Christopher Hitchens and Douglas Wilson
-                Christopher Hitchens, Douglas Wilson 
+904.  Is Christianity Good for the World? A Debate Between Christopher Hitchens and Douglas Wilson</br>
+                Christopher Hitchens, Douglas Wilson</br> 
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3725).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Eclipse
-                Stephenie Meyer 
+905. Eclipse</br>
+                Stephenie Meyer </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3726).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
-Intelligent Decision Technologies(IDT): KES-IDT 2017, Part I
-                Ireneusz Czarnowski
-
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf(3727).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
+  906. Intelligent Decision Technologies(IDT): KES-IDT 2017, Part I</br>
+                Ireneusz Czarnowski</br>
+ <a href="https://github.com/manjunath5496/books/blob/master/pdf(3727).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                A Passage to India
-                 E. M. Forster 
+907.  A Passage to India</br>
+                 E. M. Forster </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3728).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-			
-			
-
-                The Home and the world
-                Rabindranath Tagore
+908.  The Home and the world</br>
+                Rabindranath Tagore</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3729).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                Lolita
-                Vladimir Nabokov
+909. Lolita</br>
+                Vladimir Nabokov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3730).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-           
-             
-
-                The Great Gatsby
-                F. Scott Fitzgerald  
+910.   The Great Gatsby</br>
+                F. Scott Fitzgerald  </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3731).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-	
-
-
-
-                Smart Cities: Smart CT 2017
-                Enrique Alba
+911.  Smart Cities: Smart CT 2017</br>
+                Enrique Alba</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3732).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Stochastic Optimization for Distributed Energy Resources in Smart Grids
-                Yuanxiong Guo
+912. Stochastic Optimization for Distributed Energy Resources in Smart Grids</br>
+                Yuanxiong Guo</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3733).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
- 
-                Wizard's First Rule
-                Terry Goodkind
+913.  Wizard's First Rule</br>
+                Terry Goodkind</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3734).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Frontiers in Algorithmics: FAW 2017
-                Mingyu Xiao
+914.  Frontiers in Algorithmics: FAW 2017</br>
+                Mingyu Xiao</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3735).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Networked Systems: NETYS 2017
-                Amr El Abbadi
+915.  Networked Systems: NETYS 2017</br>
+                Amr El Abbadi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3736).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                The Lions of Al-Rassan
-                Guy Gavriel Kay
+ 916.  The Lions of Al-Rassan</br>
+                Guy Gavriel Kay</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3737).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Coordination Models & Languages: COORDINATION 2017
-                Jean Marie Jacquet
+917. Coordination Models & Languages: COORDINATION 2017</br>
+                Jean Marie Jacquet</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3738).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Artificial Intelligence in Medicine: AIME 2017
-                Annette ten Teije
+918. Artificial Intelligence in Medicine: AIME 2017</br>
+                Annette ten Teije</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3739).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Mistborn: The Final Empire
-                Brandon Sanderson
+919. Mistborn: The Final Empire</br>
+                Brandon Sanderson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3740).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
- 
-                Scion of Ikshvaku 
-                Amish
+920.   Scion of Ikshvaku </br>
+                Amish</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3741).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Integration of AI and OR Techniques in Constraint Programming: CPAIOR 2017
-                Domenico Salvagnin
+921.  Integration of AI and OR Techniques in Constraint Programming: CPAIOR 2017</br>
+                Domenico Salvagnin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3742).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                Travelling to Infinity: My Life with Stephen
-                Jane Hawking 
+922.  Travelling to Infinity: My Life with Stephen</br>
+                Jane Hawking </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3743).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
