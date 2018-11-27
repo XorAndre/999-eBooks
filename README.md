@@ -1,3 +1,9 @@
+
+"What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic."  
+                                                        ― <span style ="color:blue" > Carl Sagan, Cosmos </span>
+
+
+
 1.  CompTIA A+ Certification Study Guide </br>
                 Jane Holcombe</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(2837).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
