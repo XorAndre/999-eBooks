@@ -3974,298 +3974,104 @@
                 Giorgio Ausiello</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3793).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                To Kill a Mockingbird
-                 Harper Lee
+973. To Kill a Mockingbird</br>
+                 Harper Lee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3794).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Ninety Eighty Four
-                George Orwell
+974.  Ninety Eighty Four</br>
+                George Orwell</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3795).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-
-             
- 
-                The Adventures of Huckleberry Finn
-                Mark Twain
+975. The Adventures of Huckleberry Finn</br>
+                Mark Twain</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3796).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-
-
-
-
-
-                Theory and Practice of Uncertain Programming: 2nd Edition
-                Baoding Liu
+976.  Theory and Practice of Uncertain Programming: 2nd Edition</br>
+                Baoding Liu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3797).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
- 
-
-                The Scarlet Letter
-                Nathaniel Hawthorne
+977. The Scarlet Letter</br>
+                Nathaniel Hawthorne</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3798).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-	
-
-
-
-
-                Clustering Based Support for Software Architecture Restructuring
-                Niels Streekmann
+978. Clustering Based Support for Software Architecture Restructuring</br>
+                Niels Streekmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3799).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Contributing to the Eclipse IDE Project: 1st edition
-                Lars Vogel
+979. Contributing to the Eclipse IDE Project: 1st edition</br>
+                Lars Vogel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3800).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Perspectives on Military Intelligence from the First World War to Mali
-                Floribert Baudet
+980.  Perspectives on Military Intelligence from the First World War to Mali</br>
+                Floribert Baudet</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3801).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
- 
-
-                The World is Flat
-                Thomas L Friedman
+981. The World is Flat</br>
+                Thomas L Friedman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3802).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-			
-			
-
-
-                Tongue Image Analysis
-                David Zhang
+982.  Tongue Image Analysis</br>
+                David Zhang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3803).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                Murder on the Orient Express
-                 Agatha Christie
+983.  Murder on the Orient Express</br>
+                 Agatha Christie</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3804).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-	
-
-
-
-
-                Competition based Neural Networks with Robotic Applications
-                Shuai Li
+984.  Competition based Neural Networks with Robotic Applications</br>
+                Shuai Li</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3805).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Understanding & Using Rough Set Based Feature Selection: Concepts, Techniques & Applications
-                Muhammad Summair Raza
+985. Understanding & Using Rough Set Based Feature Selection: Concepts, Techniques & Applications</br>
+                Muhammad Summair Raza</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3806).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Cloud Broker & Cloudlet for Workflow Scheduling
-                Chan Hyun Youn
+986.  Cloud Broker & Cloudlet for Workflow Scheduling</br>
+                Chan Hyun Youn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3807).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                One Night &#64; the Call Center
-                Chetan Bhagat
+987.  One Night &#64; the Call Center</br>
+                Chetan Bhagat</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3808).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-			
-	
-
-
-                Hacking For Dummies
-                Kevin Beaver
+988. Hacking For Dummies</br>
+                Kevin Beaver</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/Hacking for Dummies.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-		
-			
-					
-	
-
-
-                Ghost in the Wires
-                Kevin Mitnick
+989. Ghost in the Wires</br>
+                Kevin Mitnick</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/GhostintheWiresByKevinMitnick.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-
-
-		
-
-
-                Master Android App Development eBook Version 1.2
-                Abhi Android
+990.  Master Android App Development eBook Version 1.2</br>
+                Abhi Android</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/Master Android App Development eBook Version 1.2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-	
-
-	
-
-
-                Business in the Cloud
-                Michael Hugos
+991. Business in the Cloud</br>
+                Michael Hugos</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3000.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-	
-	
-
-	
-	
-
-
-                Amazon Web Services For Dummies
-                Bernard Golden
+992. Amazon Web Services For Dummies</br>
+                Bernard Golden</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3001.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-			
-			
-			
-	
-
-
-                Fundamental Cloud Architectures
-                Thomas Erl
+993. Fundamental Cloud Architectures</br>
+                Thomas Erl</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3002.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-	
-	
-
-	
-	
-
-
-                Cloud Services For Dummies
-                Judith Hurwitz
+994.  Cloud Services For Dummies</br>
+                Judith Hurwitz</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3003.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-
-
-			
-
-	
-
-
-                Where wizards stay up late
-                Katie Hafner
+995.  Where wizards stay up late</br>
+                Katie Hafner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3004.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-			
-
-			
-
-	
-
-
-                Handbook of Cloud Computing
-                Borko Furht
+996. Handbook of Cloud Computing</br>
+                Borko Furht</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3005.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-
-			
-	
-	
-	
-	
-
-
-                eCommerce in the Cloud
-                Kelly Goetsch
+997.  eCommerce in the Cloud</br>
+                Kelly Goetsch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3006.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-			
-
-	
-
-
-
-                A Complete Guide to Cloud Computing
-                 The Art of Service
+ 998.  A Complete Guide to Cloud Computing</br>
+                 The Art of Service</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3007.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-
-		
-	
-	
-
-
-
-                Microsoft Private Cloud Computing
-                 Aidan Finn
+999. Microsoft Private Cloud Computing</br>
+                 Aidan Finn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3008.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-			
-	
-	
-	
-	
-
-
-                Computers in Communication
-                 Gordon Brebner
+1000. Computers in Communication</br>
+                 Gordon Brebner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3009.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
