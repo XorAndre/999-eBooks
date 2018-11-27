@@ -3618,170 +3618,76 @@
                 Jiuwen Cao</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3703).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Algorithms & Complexity: CIAC 2017
-                Dimitris Fotakis
+883.  Algorithms & Complexity: CIAC 2017</br>
+                Dimitris Fotakis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3704).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Interactive Granular Computations in Networks & Systems Engineering: A Practical Perspective
-                Andrzej Jankowski
+ 884. Interactive Granular Computations in Networks & Systems Engineering: A Practical Perspective</br>
+                Andrzej Jankowski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3705).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Concise Guide to Software Engineering: From Fundamentals to Application Methods
-                Gerard O Regan
+885.   Concise Guide to Software Engineering: From Fundamentals to Application Methods</br>
+                Gerard O Regan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3706).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Engineering Applications of Soft Computing
-                Margarita
+886.  Engineering Applications of Soft Computing</br>
+                Margarita</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3707).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
- 
-                The Last Unicorn
-                Peter S. Beagle
+887. The Last Unicorn</br>
+                Peter S. Beagle</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3708).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Risk Assessment & Risk Driven Quality Assurance: RISK 2016
-                Michael Felderer
+888.  Risk Assessment & Risk Driven Quality Assurance: RISK 2016</br>
+                Michael Felderer</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3709).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Eye Tracking Methodology: Theory and Practice, 3rd Edition
-                Andrew T. Duchowski
+889.  Eye Tracking Methodology: Theory and Practice, 3rd Edition</br>
+                Andrew T. Duchowski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3710).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Recent Advances in Soft Computing: MENDEL 2016
-                Radek Matousek
+890.  Recent Advances in Soft Computing: MENDEL 2016</br>
+                Radek Matousek</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3711).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Resilience by Teaming in Supply Chains and Networks
-                Rodrigo Reyes Levalle
+891.  Resilience by Teaming in Supply Chains and Networks</br>
+                Rodrigo Reyes Levalle</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3712).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Automotive Software Architectures: An Introduction
-                Miroslaw Staron
+892.   Automotive Software Architectures: An Introduction</br>
+                Miroslaw Staron</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3713).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-
-                The Once and Future King
-                T. H. White
+893.  The Once and Future King</br>
+                T. H. White</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3714).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Unveiling Dynamics & Complexity: CiE 2017
-                Jarkko Kari
+894.  Unveiling Dynamics & Complexity: CiE 2017</br>
+                Jarkko Kari</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3715).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
- 
-                The Wise Man's Fear
-                Patrick Rothfuss
+895.  The Wise Man's Fear</br>
+                Patrick Rothfuss</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3716).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Developments & Advances in Intelligent Systems & Applications
-                Alvaro Rocha
+896.  Developments & Advances in Intelligent Systems & Applications</br>
+                Alvaro Rocha</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3717).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                A Short History of Nearly Everything
-                Bill Bryson
+897. A Short History of Nearly Everything</br>
+                Bill Bryson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3718).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-             
- 
-                The Lost Symbol
-                Dan Brown
+898.  The Lost Symbol</br>
+                Dan Brown</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3719).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Encyclopedia of Genetics
-                Bryan D. Ness & Jeffrey A. Knight
+ 899.  Encyclopedia of Genetics</br>
+                Bryan D. Ness & Jeffrey A. Knight</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3720).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-            
- 
-                White Teeth
-                Zadie Smith
+900.  White Teeth</br>
+                Zadie Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3721).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
