@@ -3776,355 +3776,155 @@
                 Jane Hawking </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3743).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Recent Advances in Computational Optimization: WCO 2016, Volume 717
-                Stefka Fidanova
+923. Recent Advances in Computational Optimization: WCO 2016, Volume 717</br>
+                Stefka Fidanova</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3744).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
- 
-                Genome: The Autobiography of a Species in 23 Chapters
-                Matt Ridley
+924.  Genome: The Autobiography of a Species in 23 Chapters</br>
+                Matt Ridley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3745).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
- 
-                Why is Sex Fun
-                Jared Diamond
+925.  Why is Sex Fun</br>
+                Jared Diamond</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3746).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-
-                Reversible Computation: RC 2017
-                Iain Phillips
+926.  Reversible Computation: RC 2017</br>
+                Iain Phillips</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3747).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Smart Cities: The Internet of Things, People & Systems
-                Schahram Dustdar
+927.  Smart Cities: The Internet of Things, People & Systems</br>
+                Schahram Dustdar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3748).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                Collected Fictions of Jorge Luis Borges
-                Andrew Hurley
+928. Collected Fictions of Jorge Luis Borges</br>
+                Andrew Hurley</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3749).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Great Expectations
-                Charles Dickens
+929.  Great Expectations</br>
+                Charles Dickens</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3750).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Computer and Information Science: Volume 719
-                Roger Lee
+930.   Computer and Information Science: Volume 719</br>
+                Roger Lee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3751).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Internet Economy vs Classic Economy: Struggle of Contradictions, Volume 714
-                Alexander P. Sukhodolov
+931.  Internet Economy vs Classic Economy: Struggle of Contradictions, Volume 714</br>
+                Alexander P. Sukhodolov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3752).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Stranger In A Strange Land
-                Robert Heinlein
+932.  Stranger In A Strange Land</br>
+                Robert Heinlein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3753).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-
-                Resource Allocation with Carrier Aggregation in Cellular Networks
-                Haya Shajaiah
+933.  Resource Allocation with Carrier Aggregation in Cellular Networks</br>
+                Haya Shajaiah</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3754).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Reliable Software Technologies: Ada Europe 2017
+ 934.  Reliable Software Technologies: Ada Europe 2017
                 Johann Blieberger
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3755).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
- 
-                The Fountains of Paradise
-                Arthur C. Clarke
+935. The Fountains of Paradise</br>
+                Arthur C. Clarke</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3756).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                The Stranger
-                Albert Camus
+936. The Stranger</br>
+                Albert Camus</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3757).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Theory of Nothing
-                Russell K. Standish
+937. Theory of Nothing</br>
+                Russell K. Standish</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3758).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                The Da Vinci Code
-                Dan Brown
+938. The Da Vinci Code</br>
+                Dan Brown</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3759).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-
-
- 
-                 
-                The Hobbit
-                J.R.R.Tolkien
+939.  The Hobbit</br>
+                J.R.R.Tolkien</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3760).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-           
-             
-               
-                Pride and Prejudice
-                Jane Austen
+ 940.  Pride and Prejudice</br>
+                Jane Austen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3761).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Reasoning Web: Semantic Interoperability on the Web, International Summer School 2017
-                Giovambattista Ianni
+941.  Reasoning Web: Semantic Interoperability on the Web, International Summer School 2017</br>
+                Giovambattista Ianni</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3762).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Serviceology for Services: ICServ 2017
-                Yoshinori Hara
+942.  Serviceology for Services: ICServ 2017</br>
+                Yoshinori Hara</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3763).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Integration, Interconnection, & Interoperability of IoT Systems
-                Raffaele Gravina
+943.  Integration, Interconnection, & Interoperability of IoT Systems</br>
+                Raffaele Gravina</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3764).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Processing Medical Thermal Images: Using Matlab, Volume 716
-                Robert Koprowski
+944.  Processing Medical Thermal Images: Using Matlab, Volume 716</br>
+                Robert Koprowski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3765).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Analytical & Stochastic Modelling Techniques & Applications: ASMTA 2017
-                Nigel Thomas
+945. Analytical & Stochastic Modelling Techniques & Applications: ASMTA 2017</br>
+                Nigel Thomas</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3766).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                The Pillars of the Earth
-                Ken Follett
+946.  The Pillars of the Earth</br>
+                Ken Follett</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3767).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Security of Industrial Control Systems & Cyber Physical Systems
-                Nora Cuppens Boulahia
+947. Security of Industrial Control Systems & Cyber Physical Systems</br>
+                Nora Cuppens Boulahia</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3768).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                New Frontiers in Mining Complex Patterns: NFMCP 2016
-                Annalisa Appice
+948.  New Frontiers in Mining Complex Patterns: NFMCP 2016</br>
+                Annalisa Appice</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3769).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                A Comprehensive Guide Through the Italian Database Research Over the Last 25 Years: Volume 31
-                Sergio Flesca
+949.   A Comprehensive Guide Through the Italian Database Research Over the Last 25 Years: Volume 31</br>
+                Sergio Flesca</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3770).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
-
-                Naked in Death
-                J.D.Robb
+950.  Naked in Death</br>
+                J.D.Robb</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3771).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-	
-
-
-
-
-                Software Engineering, AI, Networking & Parallel/Distributed Computing: Volume 721
-                Roger Lee
+951. Software Engineering, AI, Networking & Parallel/Distributed Computing: Volume 721</br>
+                Roger Lee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3772).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Glory in Death
-                J.D.Robb
+952.  Glory in Death</br>
+                J.D.Robb</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3773).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Distributed Computing and AI, 14th International Conference: Volume 620
-                Sigeru Omatu
+953.  Distributed Computing and AI, 14th International Conference: Volume 620</br>
+                Sigeru Omatu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3774).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Lord of the Flies
-                Wiliam Golding 
+954. Lord of the Flies</br>
+                Wiliam Golding </br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3775).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-	
-
-
-
-
-                Advances in Data Mining Applications & Theoretical Aspects: ICDM 2017
-                Petra Perner
+955.  Advances in Data Mining Applications & Theoretical Aspects: ICDM 2017</br>
+                Petra Perner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3776).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Collaboration & Technology: CRIWG 2017
-                Carl Gutwin
+956.  Collaboration & Technology: CRIWG 2017</br>
+                Carl Gutwin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3777).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Applied Computing & Information Technology: Volume 727
-                Roger Lee
+957.   Applied Computing & Information Technology: Volume 727</br>
+                Roger Lee</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3778).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Classification Algorithms for Codes & Designs: Volume 15
-                Petteri Kaski
+958.  Classification Algorithms for Codes & Designs: Volume 15</br>
+                Petteri Kaski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3779).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fuzzy Control & Filter Design for Uncertain Fuzzy Systems
-                Wudhichai Assawinchaichote
+959. Fuzzy Control & Filter Design for Uncertain Fuzzy Systems</br>
+                Wudhichai Assawinchaichote</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3780).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Piecewise Linear Control Systems: A Computational Approach
-                Mikael Johansson
+960.  Piecewise Linear Control Systems: A Computational Approach</br>
+                Mikael Johansson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3781).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
