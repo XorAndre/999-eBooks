@@ -2993,535 +2993,419 @@
                 Matthias Templ</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3543).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-723. Angular 2 Cookbook</br>
+722. Angular 2 Cookbook</br>
                 Matt Frisbie</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3544).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-724. Julia Cookbook</br>
+723. Julia Cookbook</br>
                 Jalem Raj Rohit</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3545).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-725. Mastering JavaScript Design Patterns: Second Edition</br>
+724. Mastering JavaScript Design Patterns: Second Edition</br>
                 Simon Timms</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3546).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-726.  Reactive Programming for .NET Developers</br>
+725.  Reactive Programming for .NET Developers</br>
                 Antonio Esposito</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3547).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-727.  Learning jQuery 3: 5th Edition</br>
+726.  Learning jQuery 3: 5th Edition</br>
                 Adam Boduch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3548).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-728.  Learning JavaScript Robotics</br>
+727.  Learning JavaScript Robotics</br>
                 Kassandra Perch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3549).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-729. Learning Responsive Data Visualization</br>
+728. Learning Responsive Data Visualization</br>
                 Christoph Korner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3550).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-730.  Windows Server 2016 Cookbook</br>
+729.  Windows Server 2016 Cookbook</br>
                 Jordan Krause</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3551).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-731.  Mastering C# and .NET Framework</br>
+730.  Mastering C# and .NET Framework</br>
                 Marino Posadas</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3552).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-732.  JIRA Development Cookbook: Third Edition</br>
+731.  JIRA Development Cookbook: Third Edition</br>
                 Jobin Kuruvilla</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3553).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-734. Mastering React Native</br>
+732. Mastering React Native</br>
                 Eric Masiello</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3554).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-735.  Mastering Concurrency Programming with Java 8</br>
+733.  Mastering Concurrency Programming with Java 8</br>
                 Javier Fernandez Gonzalez</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3555).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-736.  MEAN Web Development: Second Edition</br>
+734.  MEAN Web Development: Second Edition</br>
                 Amos Q. Haviv</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3556).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-737. Magento 2 Developer's Guide</br>
+735. Magento 2 Developer's Guide</br>
                 Branko Ajzele</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3557).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-738. Machine Learning for the Web</br>
+736. Machine Learning for the Web</br>
                 Andrea Isoni</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3558).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-739.  Procedural Content Generation for C++ Game Development</br>
+737.  Procedural Content Generation for C++ Game Development</br>
                 Dale Green</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3559).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-740. Docker High Performance</br>
+738. Docker High Performance</br>
                 Allan Espinosa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3560).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-741.  Magento 2 Cookbook</br>
+739.  Magento 2 Cookbook</br>
                 Ray Bogman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3561).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
- 742.  Mastering PHP Design Patterns</br>
+ 740.  Mastering PHP Design Patterns</br>
                 Junade Ali</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3562).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-743. Getting Started with SpriteKit</br>
+741. Getting Started with SpriteKit</br>
                 Jorge Jordan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3563).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-744. Building Microservices with .NET Core</br>
+742. Building Microservices with .NET Core</br>
                 Gaurav Kumar Aroraa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3564).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-745. Getting Started with hapi.js</br>
+743. Getting Started with hapi.js</br>
                 John Brett</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3565).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-746. Mastering Proxmox: Second Edition</br>
+744. Mastering Proxmox: Second Edition</br>
                 Wasim Ahmed</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3566).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-747. Learning CoreOS</br>
+		
+745. Learning CoreOS</br>
                 Kingston Smiler. S</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3567).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-748. Unity 5.x By Example</br>
+746. Unity 5.x By Example</br>
                 Alan Thorn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3568).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-749.  Mastering .NET Machine Learning</br>
+747.  Mastering .NET Machine Learning</br>
                 Jamie Dixon</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3569).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-750. Node.js 6.x Blueprints</br>
+748. Node.js 6.x Blueprints</br>
                 Fernando Monteiro</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3570).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-751. Learning Grunt</br>
+749. Learning Grunt</br>
                 Douglas Reynolds</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3571).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-752. Learning Modular Java Programming</br>
+750. Learning Modular Java Programming</br>
                 Tejaswini Mandar Jog</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3572).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-753.  Securing Docker</br>
+751.  Securing Docker</br>
                 Scott Gallagher</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3573).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-754.  Bootstrap 4 Cookbook</br>
+752.  Bootstrap 4 Cookbook</br>
                 Ajdin Imsirovic</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3574).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-755.  Learning AWS Lumberyard Game Development</br>
+753.  Learning AWS Lumberyard Game Development</br>
                 Dr. Edward Lavieri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3575).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-756. Mastering Oculus Rift Development</br>
+754. Mastering Oculus Rift Development</br>
                 Jack Donovan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3576).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-757.   Twenty Thousand Leagues under the Sea</br>
+755.   Twenty Thousand Leagues under the Sea</br>
                 Jules Verne</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3577).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-758. The Bully Book</br>
+756. The Bully Book</br>
                 Eric Kahn Gale</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3578).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-759. The Chronicles Of Narnia</br>
+757. The Chronicles Of Narnia</br>
                  C.S. Lewis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3579).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-760.  Building RESTful Python Web Services</br>
+758.  Building RESTful Python Web Services</br>
                 Gaston C. Hillar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3580).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-761. Moodle 3.x Teaching Techniques: Third Edition</br>
+759. Moodle 3.x Teaching Techniques: Third Edition</br>
                 Susan Smith Nash</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3581).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-762.  Mastering Reactive JavaScript</br>
+760.  Mastering Reactive JavaScript</br>
                 Erich de Souza Oliveira</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3582).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-763. The Autobiography of Alice B Toklas (1933)</br>
+761. The Autobiography of Alice B Toklas (1933)</br>
                 Gertrude Stein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3583).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-764. A Moveable Feast</br>
+762. A Moveable Feast</br>
                 Ernest Hemingway</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3584).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-765. Haskell High Performance Programming</br>
+763. Haskell High Performance Programming</br>
                 Samuli Thomasson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3585).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-766.  Python Deep Learning</br>
+764.  Python Deep Learning</br>
                 Valentino Zocca</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3586).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-777.  Mastering Akka</br>
+765.  Mastering Akka</br>
                 Christian Baxter</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3587).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-778.  Angular Test Driven Development: 2nd Edition</br>
+766.  Angular Test Driven Development: 2nd Edition</br>
                 Md. Ziaul Haq</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3588).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-779.  Flux Architecture</br>
+767.  Flux Architecture</br>
                 Adam Boduch</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3589).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-780. .NET Design Patterns</br>
+768. .NET Design Patterns</br>
                 Praseed Pai</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3590).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-781.  Spring Microservices</br>
+769.  Spring Microservices</br>
                 Rajesh RV</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3591).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-782. C For Dummies</br>
+770. C For Dummies</br>
                 Dan Gookin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3592).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-783.  Vue.js 2 Cookbook</br>
+771.  Vue.js 2 Cookbook</br>
                 Andrea Passaglia</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3593).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-784. Java 9 Programming By Example</br>
+772. Java 9 Programming By Example</br>
                 Peter Verhas</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3594).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-785. Mastering TypeScript: Second Edition</br>
+773. Mastering TypeScript: Second Edition</br>
                 Nathan Rozentals</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3595).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-786. Mastering SFML Game Development</br>
+774. Mastering SFML Game Development</br>
                 Raimondas Pupius</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3596).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-787. Learning Vue.js 2</br>
+775. Learning Vue.js 2</br>
                 Olga Filipova</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3597).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-788.  Swift 3 Object-Oriented Programming: 2nd Edition</br>
+776.  Swift 3 Object-Oriented Programming: 2nd Edition</br>
                 Gaston C. Hillar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3598).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-789.  Docker Orchestration</br>
+777.  Docker Orchestration</br>
                 Randall Smith</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3599).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-790. Java Data Science Cookbook</br>
+778. Java Data Science Cookbook</br>
                 Rushdi Shams</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3600).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-791. Augmented Reality Game Development</br>
+779. Augmented Reality Game Development</br>
                 Micheal Lanham</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3601).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-792. HTML5 and CSS3: Building Responsive Websites</br>
+780. HTML5 and CSS3: Building Responsive Websites</br>
                 Thoriq Firdaus</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3602).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-793. Python: Master the Art of Design Patterns</br>
+781. Python: Master the Art of Design Patterns</br>
                 Dusty Phillips</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3603).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-794.  Getting Started with Angular: Second Edition</br>
+782.  Getting Started with Angular: Second Edition</br>
                 Minko Gechev</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3604).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-795. Programming Kotlin</br>
+783. Programming Kotlin</br>
                 Stephen Samuel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3605).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-798.  WordPress Web Application Development: 3rd Edition</br>
+784.  WordPress Web Application Development: 3rd Edition</br>
                 Rakhitha Nimesh Ratnayake</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3606).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-799.   AWS Administration Cookbook</br>
+785.   AWS Administration Cookbook</br>
                 Lucas Chan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3607).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-800. C# 7 and .NET Core Cookbook</br>
+786. C# 7 and .NET Core Cookbook</br>
                 Dirk Strauss</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3608).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-801. Game Audio Development with Unity 5.X</br>
+787. Game Audio Development with Unity 5.X</br>
                 Micheal Lanham</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3609).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-802. Mastering Java EE Development with WildFly</br>
+788. Mastering Java EE Development with WildFly</br>
                 Luca Stancapiano</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3610).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
- 803.  Meteor: Full Stack Web Application Development</br>
+ 789.  Meteor: Full Stack Web Application Development</br>
                 Fabian Vogelsteller</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3611).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-804. Enterprise PowerShell Scripting Bootcamp</br>
+790. Enterprise PowerShell Scripting Bootcamp</br>
                 Brenton J.W. Blawat</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3612).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-805. Learn Python in 7 Days</br>
+791. Learn Python in 7 Days</br>
                 Mohit</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3613).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-806.  Reactive Android Programming</br>
+792.  Reactive Android Programming</br>
                 Tadas Subonis</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3614).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-807.  Essential Angular</br>
+793.  Essential Angular</br>
                 Victor Savkin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3615).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-808.  KVM Virtualization Cookbook</br>
+794.  KVM Virtualization Cookbook</br>
                 Konstantin Ivanov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3616).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-809. DevOps: Puppet, Docker, and Kubernetes</br>
+795. DevOps: Puppet, Docker, and Kubernetes</br>
                 Thomas Uphill</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3617).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-810. HTML5 in easy steps: 2nd Edition</br>
+796. HTML5 in easy steps: 2nd Edition</br>
                 Mike McGrath</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3618).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-811. C++ Programming in easy steps: 5th Edition</br>
+797. C++ Programming in easy steps: 5th Edition</br>
                 Mike McGrath</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3619).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-812.  LWUIT 1.1 for Java ME Developers</br>
+798.  LWUIT 1.1 for Java ME Developers</br>
                 Biswajit Sarkar</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3620).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-813.  Stepping into Virtual Reality</br>
+799.  Stepping into Virtual Reality</br>
                 Daniel Thalmann</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3621).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-814.  Text Searching Algorithms </br>
+800.  Text Searching Algorithms </br>
                 Jan Holub</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/tsa-lectures-1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-815. Automatic Speech Recognition on Mobile Devices and Over Communication Networks</br>
+801. Automatic Speech Recognition on Mobile Devices and Over Communication Networks</br>
                 Zheng Hua Tan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3622).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-816.  Knowledge Mining Using Intelligent Agents</br>
+802.  Knowledge Mining Using Intelligent Agents</br>
                 Satchidananda Dehuri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3623).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-817. Panda3D 1.7 Game Developer's Cookbook</br>
+803. Panda3D 1.7 Game Developer's Cookbook</br>
                 Christoph Lang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3624).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-818. The Life of Galileo </br>
+804. The Life of Galileo </br>
                 Bertolt Brecht</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3625).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-819.  JBoss AS 7: Configuration, Deployment, and Administration</br>
+805.  JBoss AS 7: Configuration, Deployment, and Administration</br>
                 Francesco Marchioni</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3626).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-820.  Unity Android Game Development by Example: Beginner's Guide</br>
+806.  Unity Android Game Development by Example: Beginner's Guide</br>
                 Thomas Finnegan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3627).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Unity Character Animation with Mecanim
-                Jamie Dean
+807.  Unity Character Animation with Mecanim</br>
+                Jamie Dean</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3628).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Murach’s Beginning Visual Basic .NET
-                Anne Prince
+808. Murach's Beginning Visual Basic .NET</br>
+                Anne Prince</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3629).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                .NET Memory Dump Analysis Accelerated: Version 2.0
-                Dimitry Vostokov
+809. .NET Memory Dump Analysis Accelerated: Version 2.0</br>
+                Dimitry Vostokov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3630).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Java 2 Game Programming
-                Thomas Petchel
+810.  Java 2 Game Programming</br>
+                Thomas Petchel</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3631).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
- 
-                The Complete Sherlock Holmes
-                Arthur Conan Doyle
+811.  The Complete Sherlock Holmes</br>
+                Arthur Conan Doyle</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3632).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-
-
-
-
-                Mac Game Programming
-                Mark Szymczyk
+812.  Mac Game Programming</br>
+                Mark Szymczyk</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3633).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Data Structures for Game Programmers
-                Ron Penton
+813. Data Structures for Game Programmers</br>
+                Ron Penton</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3634).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Programmer’s Ultimate Security DeskRef
-                James C. Foster
+814.  Programmer's Ultimate Security DeskRef</br>
+                James C. Foster</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3635).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Website Owner's Manual: The Secret to Successful Websites
-                Paul Boag
+815.  Website Owner's Manual: The Secret to Successful Websites</br>
+                Paul Boag</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3636).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Learn Visual C#: A Computer Programming Tutorial
-                Philip Conrod
+816. Learn Visual C#: A Computer Programming Tutorial</br>
+                Philip Conrod</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3637).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Agile Web Development with Rails 4
-                Sam Ruby
+817.  Agile Web Development with Rails 4</br>
+                Sam Ruby</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3638).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Soft & Cuddly
-                Jarett Kobek
+818. Soft & Cuddly</br>
+                Jarett Kobek</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3639).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                iOS Apprentice: 5th Edition
-                Matthijs Hollemans
+819.  iOS Apprentice: 5th Edition</br>
+                Matthijs Hollemans</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3640).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Shared Memory Parallelism Can Be Simple, Fast, and Scalable
-                Julian Shun
+820.  Shared Memory Parallelism Can Be Simple, Fast, and Scalable</br>
+                Julian Shun</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3641).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                The Gay Science
-                Friedrich Nietzsche
+821.  The Gay Science</br>
+                Friedrich Nietzsche</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3642).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-                Data Analysis and Pattern Recognition in Multiple Databases
-                Animesh Adhikari
+822.  Data Analysis and Pattern Recognition in Multiple Databases</br>
+                Animesh Adhikari</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3643).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-                The Expression of the Emotions in Man and Animals
-                 Charles Darwin
+823. The Expression of the Emotions in Man and Animals</br>
+                 Charles Darwin</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3644).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-			
-			
-
-
-                Rewriting and Typed Lambda Calculi
-                Gilles Dowek (Ed.)
+824.   Rewriting and Typed Lambda Calculi</br>
+                Gilles Dowek (Ed.)</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3645).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
- 
-
-                Thus Spoke Zarathustra
-                Friedrich Nietzsche
+825. Thus Spoke Zarathustra</br>
+                Friedrich Nietzsche</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3646).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Intelligent Computing in Bioinformatics
-                De Shuang Huang
+826.  Intelligent Computing in Bioinformatics</br>
+                De Shuang Huang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3647).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                E Commerce and Web Technologies
-                Martin Hepp
+827.  E Commerce and Web Technologies</br>
+                Martin Hepp</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3648).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                Leonardo Da Vinci Thoughts On Art and Life
-                Lewis Einstein
+ 828.  Leonardo Da Vinci Thoughts On Art and Life</br>
+                Lewis Einstein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3649).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-               
-                Jonathan Strange & Mr Norrell
+ 829. Jonathan Strange & Mr Norrell
                 Susanna Clarke
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3650).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
