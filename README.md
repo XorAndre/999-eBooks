@@ -3405,503 +3405,217 @@
                 Lewis Einstein</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3649).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
- 829. Jonathan Strange & Mr Norrell
-                Susanna Clarke
+ 829. Jonathan Strange & Mr Norrell</br>
+                Susanna Clarke</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3650).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                DNA Computing and Molecular Programming
-                Satoshi Murata
+830.  DNA Computing and Molecular Programming</br>
+                Satoshi Murata</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3651).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Fuzzy Control Systems with Time Delay and Stochastic Perturbation
-                Ligang Wu
+831. Fuzzy Control Systems with Time Delay and Stochastic Perturbation</br>
+                Ligang Wu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3652).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Statistical Language and Speech Processing
-                Laurent Besacier
+832. Statistical Language and Speech Processing</br>
+                Laurent Besacier</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3653).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Eduardo Ferme
-                Logics in Artificial Intelligence
+833. Eduardo Ferme</br>
+                Logics in Artificial Intelligence</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3654).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Artificial Evolution
-                Pierrick Legrand
+834.  Artificial Evolution</br>
+                Pierrick Legrand</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3655).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                The Portrait of a Lady
-                Henry James
+835.  The Portrait of a Lady</br>
+                Henry James</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3656).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-             
-
-                Middlemarch
-                George Eliot
+836.  Middlemarch</br>
+                George Eliot</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3657).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-           
- 
-                Catching Fire
-                Suzanne Collins
+837.  Catching Fire</br>
+                Suzanne Collins</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3658).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Progress in Cryptology: INDOCRYPT 2014
-                Willi Meier
+838. Progress in Cryptology: INDOCRYPT 2014</br>
+                Willi Meier</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3659).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-              
-                American Gods
+839.  American Gods</br>
                 Neil Gaiman
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3660).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Advances in Speech and Language Technologies for Iberian Languages
-                Juan Luis Navarro Mesa
+840.  Advances in Speech and Language Technologies for Iberian Languages</br>
+                Juan Luis Navarro Mesa</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3661).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Technologies and Applications of Artificial Intelligence
-                Shin Ming Cheng
+841.  Technologies and Applications of Artificial Intelligence</br>
+                Shin Ming Cheng</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3662).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Automatic Design of Decision: Tree Induction Algorithms
-                Rodrigo C. Barros
+842.   Automatic Design of Decision: Tree Induction Algorithms</br>
+                Rodrigo C. Barros</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3663).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
- 
-                Narrative of the Life of Frederick Douglass: An American Slave
-                Frederick Douglass
+843.   Narrative of the Life of Frederick Douglass: An American Slave</br>
+                Frederick Douglass</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3664).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
-                
-            
-           
-             
-
- 
-                The Diary of a Young Girl : The Definitive Edition
-                Anne Frank
+844.  The Diary of a Young Girl : The Definitive Edition</br>
+                Anne Frank</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3665).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Algorithms and Discrete Applied Mathematics
-                Sumit Ganguly
+845.  Algorithms and Discrete Applied Mathematics</br>
+                Sumit Ganguly</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3666).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Distributed Computing and Internet Technology
-                Raja Natarajan
+846.  Distributed Computing and Internet Technology</br>
+                Raja Natarajan</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3667).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Job Scheduling Strategies for Parallel Processing
-                Walfredo Cirne
+847.  Job Scheduling Strategies for Parallel Processing</br>
+                Walfredo Cirne</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3668).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Outlooks and Insights on Group Decision and Negotiation
+848. Outlooks and Insights on Group Decision and Negotiation
                 Bogumil Kaminski
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3669).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
-
-
-
-
-                Interpretability of Computational Intelligence: Based Regression Models
-                Tamas Kenesei
+849.  Interpretability of Computational Intelligence: Based Regression Models</br>
+                Tamas Kenesei</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3670).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Modeling & Evaluating Denial of Service Attacks for Wireless & Mobile Applications
-                Zhuo Lu
+850.  Modeling & Evaluating Denial of Service Attacks for Wireless & Mobile Applications</br>
+                Zhuo Lu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3671).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Algorithmic Learning Theory
-                Kamalika Chaudhuri
+851.  Algorithmic Learning Theory</br>
+                Kamalika Chaudhuri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3672).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-			
-			
-
-
-                Pale Fire
-                Vladimir Nabokov
+852. Pale Fire</br>
+                Vladimir Nabokov</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3673).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-             
-             
-
-              
-                The Book of the Thousand Nights and One Night Vol. 1
-                J. C. Mardrus, Powys Mathers
+853.  The Book of the Thousand Nights and One Night Vol. 1</br>
+                J. C. Mardrus, Powys Mathers</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3674).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Information Systems Architecture & Technology: ISAT 2015, Part I
-                Leszek Borzemski
+854.  Information Systems Architecture & Technology: ISAT 2015, Part I</br>
+                Leszek Borzemski</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3675).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Lord of the Rings
-                J.R.R.Tolkien
+855.  The Lord of the Rings</br>
+                J.R.R.Tolkien</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3676).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-             
- 
-                The Hunger Games
-                Suzanne Collins
+856.  The Hunger Games</br>
+                Suzanne Collins</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3677).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                EVOLVE: A Bridge between Probability, Set Oriented Numerics & Evolutionary Computation VII
-                Michael Emmerich
+857. EVOLVE: A Bridge between Probability, Set Oriented Numerics & Evolutionary Computation VII</br>
+                Michael Emmerich</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3678).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Automotive User Interfaces: Creating Interactive Experiences in the Car
-                Gerrit Meixner
+858. Automotive User Interfaces: Creating Interactive Experiences in the Car</br>
+                Gerrit Meixner</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3679).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                I Know Why the Caged Bird Sings
-                Maya Angelou
+859.  I Know Why the Caged Bird Sings</br>
+                Maya Angelou</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3680).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Recent Advances in Intelligent Image Search & Video Retrieval
-                Chengjun Liu
+860. Recent Advances in Intelligent Image Search & Video Retrieval</br>
+                Chengjun Liu</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3681).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Handbook on Advances in Remote Sensing & Geographic Information Systems
-                Margarita N. Favorskaya
+861.  Handbook on Advances in Remote Sensing & Geographic Information Systems</br>
+                Margarita N. Favorskaya</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3682).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Introduction to Computer Networking
-                Thomas G. Robertazzi
+862.  Introduction to Computer Networking</br>
+                Thomas G. Robertazzi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3683).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Operations Research & Enterprise Systems: ICORES 2016
-                Begona Vitoriano
+863.  Operations Research & Enterprise Systems: ICORES 2016</br>
+                Begona Vitoriano</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3684).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                The Autobiography of Malcolm X
-                 Alex Haley & Malcolm X
+ 864.  The Autobiography of Malcolm X</br>
+                 Alex Haley & Malcolm X</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3685).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-			
-			
-
-
-                Agent Mediated Electronic Commerce: AMEC/TADA 2015 & 2016
-                Sofia Ceppi
+865.  Agent Mediated Electronic Commerce: AMEC/TADA 2015 & 2016</br>
+                Sofia Ceppi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3686).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
-            	
-
-
-
-
-                Cloud Mobile Networks: From RAN to EPC
-                Mojtaba Vaezi
+866.  Cloud Mobile Networks: From RAN to EPC</br>
+                Mojtaba Vaezi</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3687).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Cloud Computing: Principles, Systems and Applications, 2nd Edition
-                Nick Antonopoulos
+867.  Cloud Computing: Principles, Systems and Applications, 2nd Edition</br>
+                Nick Antonopoulos</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3688).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
- 
-                The Story of My Life
-                 Helen Keller
+868. The Story of My Life</br>
+                 Helen Keller</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3689).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-	
-
-
-
-
-                Outlier Ensembles: An Introduction
-                Charu C. Aggarwal
+869. Outlier Ensembles: An Introduction</br>
+                Charu C. Aggarwal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3690).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-
-                On Writing
-                Stephen King
+870.  On Writing</br>
+                Stephen King</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3691).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-	
-
-
-
-
-                Finite Difference Computing with PDEs: A Modern Software Approach
-                Hans Petter Langtangen
+871.  Finite Difference Computing with PDEs: A Modern Software Approach</br>
+                Hans Petter Langtangen</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3692).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Process Algebras for Petri Nets: The Alphabetization of Distributed Systems
-                Roberto Gorrieri
+872.  Process Algebras for Petri Nets: The Alphabetization of Distributed Systems</br>
+                Roberto Gorrieri</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3693).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
- 
- 
-
-                The Autobiography of Charles Darwin 1809-1882
-                Nora Barlow
+  873.  The Autobiography of Charles Darwin 1809-1882</br>
+                Nora Barlow</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3694).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
             
-               
-
-            
-
- 
-                The Autobiography of Benjamin Franklin with Introduction and Notes
-                Charles W. Eliot
+874.  The Autobiography of Benjamin Franklin with Introduction and Notes</br>
+                Charles W. Eliot</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3695).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-           
-	
-
-
-
-
-                Dynamic Secularization: IT & the Tension b/w Religion & Science
-                William Sims Bainbridge
+875.  Dynamic Secularization: IT & the Tension b/w Religion & Science</br>
+                William Sims Bainbridge</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3696).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Spatial Network Big Databases: Queries and Storage Methods
-                KwangSoo Yang
+876.  Spatial Network Big Databases: Queries and Storage Methods</br>
+                KwangSoo Yang</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3697).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Digital Logic for Computing
-                John Seiffertt
+877. Digital Logic for Computing</br>
+                John Seiffertt</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3698).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-                 
-                The Way Of Kings
-                Brandon Sanderson
+878. The Way Of Kings</br>
+                Brandon Sanderson</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3699).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
- 
-
-                The Magicians
-                 Lev Grossman
+879. The Magicians</br>
+                 Lev Grossman</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3700).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font></font> </a>
                 
-            
-
-
-
-
-
-                Granular Neural Networks, Pattern Recognition & Bioinformatics
-                Sankar K. Pal
+880.  Granular Neural Networks, Pattern Recognition & Bioinformatics</br>
+                Sankar K. Pal</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3701).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Data Analytics & Management in Data Intensive Domains: DAMDID/RCDL 2016
-                Leonid Kalinichenko
+881.  Data Analytics & Management in Data Intensive Domains: DAMDID/RCDL 2016</br>
+                Leonid Kalinichenko</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3702).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-            	
-
-
-
-
-                Proceedings of ELM 2016
-                Jiuwen Cao
+882. Proceedings of ELM 2016</br>
+                Jiuwen Cao</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf(3703).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
             	
