@@ -4070,10 +4070,7 @@
                  Aidan Finn</br>
                 <a href="https://github.com/manjunath5496/books/blob/master/pdf3008.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
                 
-1000. Computers in Communication</br>
-                 Gordon Brebner</br>
-                <a href="https://github.com/manjunath5496/books/blob/master/pdf3009.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
-                
+
             	
 				          		
 
