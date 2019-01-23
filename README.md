@@ -1,3 +1,17 @@
+<img src="http://www.myw3schools.com/img/10538.jpg" width="250" alt="Carl Sagan | American astronomer, cosmologist, astrophysicist, astrobiologist, author, science popularizer, and science communicator in astronomy and other natural sciences.">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1.  CompTIA A+ Certification Study Guide </br>
                 Jane Holcombe</br>
